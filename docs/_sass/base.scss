@@ -400,4 +400,33 @@ p {
 #footer {
     background-color: #474747;
     color: #FFFFFF;
+    padding: to_rem(71) 0;
+
+    h3, h4 {
+        margin: 0 0 to_rem(10);
+        font-weight: bold;
+        font-size: to_rem(18);
+        line-height: 167%;
+    }
+
+    ul, ol {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    p, li {
+        margin: 0 0 to_rem(10);
+        font-weight: normal;
+        font-size: to_rem(18);
+        line-height: 167%;
+
+        &:last-of-type {
+            margin-bottom: 0;
+        }
+    }
+
+    svg {
+        margin-bottom: 38px;
+    }
 }
