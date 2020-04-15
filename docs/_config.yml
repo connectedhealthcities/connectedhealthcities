@@ -48,6 +48,17 @@ header_pages:
   - connected-yorkshire.md
   - appendix.md
 
+footer:
+  - type: page
+    value: about.md
+    weight: 0
+  - type: page
+    value: privacy.md
+    weight: 1
+  - type: text
+    value: '© Copyright 2020.  Registered in the UK. Company number 25486635872'
+    weight: 2
+
 logo: 'assets/logo.svg'
 
 repository: 'connectedhealthcities/connectedhealthcities.github.io'

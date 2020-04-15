@@ -435,4 +435,28 @@ p {
     svg {
         margin-bottom: 38px;
     }
+
+    #footer__terms {
+        list-style: none;
+        display: flex;
+        margin: to_rem(64) 0 0;
+        padding: 0;
+
+        li {
+            margin-right: to_rem(64);
+
+            &:last-of-type {
+                margin-right: 0;
+            }
+        }
+
+
+        a {
+            font-weight: normal;
+            font-size: to_rem(18);
+            line-height: 167%;
+            color: #fff;
+            text-decoration: none;
+        }
+    }
 }
