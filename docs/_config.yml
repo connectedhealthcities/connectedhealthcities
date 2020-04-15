@@ -21,8 +21,11 @@
 title: Connected Health Cities
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Connected Health Cities (CHCs) improved health services for patients in the 
+  of North England by making use of under-used data and applying the latest 
+  technologies and methodologies to enhance local health needs.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en_GB
 
 markdown: kramdown
