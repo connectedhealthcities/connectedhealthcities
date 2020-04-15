@@ -1,0 +1,16 @@
+<footer>
+    <div id="social">
+        <ul class="wrapper social__links">
+            <li class="social__links__link"><a href="http://www.twitter.com/@CHCNorth"><img height="64" width="64" src="{{ 'assets/images/social/twitter.svg' | relative_url }}" alt="Follow us on Twitter" /></a></li>
+            <li class="social__links__link"><a href="http://www.facebook.com/datasaveslives/"><img height="64" width="64" src="{{ 'assets/images/social/facebook.svg' | relative_url }}" alt="Find us on Facebook" /></a></li>
+            <li class="social__links__link"><a href="https://www.flickr.com/photos/123759687@N04/albums"><img height="64" width="64" src="{{ 'assets/images/social/flickr.svg' | relative_url }}" alt="See what we've been up to on Flickr" /></a></li>
+            <li class="social__links__link"><a href="https://vimeo.com/user56336292"><img height="64" width="64" src="{{ 'assets/images/social/vimeo.svg' | relative_url }}" alt="Vimeo" /></a></li>
+        </ul>
+    </div>
+    <div id="footer">
+        {%- assign footer_left = site.page_sections | where: "id", '/page_sections/footer_left' | first -%}
+        {%- assign footer_right = site.page_sections | where: "id", '/page_sections/footer_right' | first -%}
+        {% include two_columns.html left_contents=footer_left right_contents=footer_right %}
+
+    </div>
+</footer>

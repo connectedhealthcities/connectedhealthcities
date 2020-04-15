@@ -1,0 +1,11 @@
+<div class="wrapper">
+    <div class="left-hand-side">
+        {{ include.left_contents }}
+    </div>
+    
+    {% if include.right_contents %}
+    <div class="right-hand-side">
+        {{ include.right_contents }}
+    </div>
+    {% endif %}
+</div>
