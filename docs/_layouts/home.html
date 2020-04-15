@@ -7,7 +7,7 @@ layout: default
     {%- assign intro_right = site.page_sections | where: "id", '/page_sections/homepage/intro_right' | first -%}
     {% include two_columns.html left_contents=intro_left right_contents=intro_right %}
 </aside>
-<article>
+<article id="main-content">
     {%- assign sidebar = site.page_sections | where: "id", '/page_sections/homepage/sidebar' | first -%}
-    {% include two_columns.html left_contents=content right_contents=sidebar %}
+    {% include two_columns.html left_contents=content right_contents=sidebar right_classes="homepage-sidebar" %}
 </article>
