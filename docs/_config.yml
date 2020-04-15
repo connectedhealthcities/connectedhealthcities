@@ -31,6 +31,7 @@ lang: en_GB
 markdown: kramdown
 kramdown: 
   parse_block_html: true
+theme: null
 
 defaults:
 
@@ -49,11 +50,17 @@ header_pages:
 
 logo: 'assets/logo.svg'
 
+repository: 'connectedhealthcities/connectedhealthcities.github.io'
+
+sass:
+  sass_dir: '_sass'
+
 
 # Build settings
 plugins:
   - jekyll-github-metadata
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jemoji
 
 # Exclude from processing.
