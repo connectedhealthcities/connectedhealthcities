@@ -32,9 +32,9 @@ _ReSharper*/
 packages/
 
 ### Jekyll ###
-docs/_site/
-docs/.sass-cache/
-docs/.jekyll-cache/
-docs/.jekyll-metadata
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
 # End of https://www.gitignore.io/api/jekyll
