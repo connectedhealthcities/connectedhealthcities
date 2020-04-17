@@ -1,6 +1,5 @@
 ---
-intro: /page_sections/homepage/intro
-
+title: Connected Health Cities
 ---
 
 #  Community of <br> Practice
