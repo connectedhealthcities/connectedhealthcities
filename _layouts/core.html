@@ -1,0 +1,21 @@
+---
+---
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-GB" }}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        {%- seo -%}
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet"> 
+        <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet" />
+    </head>
+    <body class="{{ page.layout | slugify }}">
+        {%- include header.html -%}
+
+        {{ content }}
+
+        {%- include footer.html -%}
+
+    </body>
+</html>
