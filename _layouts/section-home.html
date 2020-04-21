@@ -1,0 +1,41 @@
+---
+layout: core
+---
+
+<article id="main-content">
+
+    <div class="intro-wrapper">
+        <div class="wrapper">
+            <ul class="section-menu" role="navigation">
+                <p class="section-menu__heading">{{ page.title }}</p>
+                {%- assign sub_pages = site.pages | where: "parent", page.section | sort: 'weight' -%}
+                {%- for sub_page in sub_pages -%}
+                    <li><a href="{{ sub_page.url }}" title="{{ sub_page.level }}">{{sub_page.title}}</a></li> 
+                {%- endfor -%}
+            </ul>
+
+            <div class="intro">
+                <h1>{{ page.title }}</h1>
+                
+                {{ page.intro | markdownify }}            
+            </div>
+        </div>
+    </div>
+
+    <section class="article-continuation">
+        {%- capture sidebar -%}        
+            {%- if page.sidebar_image -%}
+                <div class="sidebar__image">
+                    <img src="{{ page.sidebar_image | relative_url }}" alt="{{ page.sidebar_image_caption }}" />
+                </div>
+                
+                    <p class="sidebar__caption">{{ page.sidebar_image_caption }}</p>
+                
+            {%- endif -%}
+        {%- endcapture -%}
+        {%- include two_columns.html left_contents=content right_contents=sidebar right_classes='sidebar' -%}
+    </section>
+
+    
+    
+</article>

@@ -4,6 +4,8 @@ intro: | #this means everything indented below is included
     Mauris nunc ipsum, volutpat quis lacus eu, tincidunt placerat neque. Phasellus in urna odio. Nam elit leo, varius vitae ultrices nec, pharetra at lacus. Pellentesque id dui non velit viverra maximus.  
 
     Nullam *tincidunt* lectus vel enim consectetur tincidunt. Vivamus non urna a mauris mollis convallis quis in velit. Donec dignissim justo erat, et mattis nunc commodo sit amet. Vivamus a purus mi. Nunc dignissim auctor rhoncus. Morbi consequat nisi metus, et **posuere** odio bibendum id. Aenean aliquam mauris et arcu porta, a auctor tortor gravida. Maecenas vitae urna dui. Sed eget mollis erat. Nullam quis odio quis leo tincidunt 
+sidebar_image: 'assets/images/index/data-saves-lives.jpg'
+sidebar_image_caption: Image description
 section: hub
 index: true
 layout: section-home
