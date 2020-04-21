@@ -220,6 +220,37 @@ p {
             line-height: 194%;
         }
     }
+
+
+    .resources {
+        margin-bottom: to_rem(37);
+        li {
+            border: 3px solid #00a2ad;
+            padding: to_rem(12) to_rem(9) to_rem(9) to_rem(32);
+            
+            a {
+                display: flex;
+                align-items: center;
+                font-weight: 600;
+                font-size: 22px;
+                line-height: percentage(32/22);
+                color: #000;
+
+                &::before {
+                    content: '';
+                    display: block;
+                    background-image: url('../images/pdf.svg');
+                    width: 47px;
+                    height: 76px;
+                    margin-right: to_rem(39);
+                }
+                
+            }
+
+           
+            
+        }
+    }
 }
 
 $intro-mobile-space-top: to_rem(33);
