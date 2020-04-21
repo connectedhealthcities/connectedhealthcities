@@ -8,6 +8,7 @@ $transition-time: 0.1s;
 
 $desktop-breakpoint: 1140px;
 $max-mobile-width: $desktop-breakpoint - 1px;
+$mobile-margin: 21;
 
 @mixin mobile-view {
     @media screen and (max-width: $max-mobile-width) {
@@ -75,59 +76,10 @@ body {
     }
 
     @include mobile-view {
-        $mobile-margin: 21;
         width: 100%;
         display: block;
         padding: 0 to_rem($mobile-margin);
 
-    }
-}
-
-.section-home .intro-wrapper {
-    @extend %intro;
-
-    h1 {
-        color: #fff !important;
-    }
-}
-.section-home .intro {
-    @extend %left-hand-side;
-    order: 1;
-}
-.section-menu { 
-    @extend %right-hand-side;
-    order: 2;
-
-    .section-menu__heading {
-        margin-bottom: to_rem(18) !important;
-        font-weight: 600;
-        font-size: to_rem(38);
-        line-height: 105%
-    }
-
-    li {
-        
-        font-weight: 500;
-        font-size: to_rem(26);
-        line-height: percentage(38/26);
-
-        margin-bottom: to_rem(15);
-
-        &:last-child {
-            margin-bottom: 0;
-        }
-    }
-
-    &::after {
-        content: '';
-        background-color: #fff;
-
-        display: block;
-        height: 3px;
-        width: 100%;
-        
-
-        margin-top: to_rem(44.5);
     }
 }
 
@@ -140,10 +92,16 @@ p {
     .home &,
     .article-continuation {
         padding: to_rem(64) 0;
+
+        @include mobile-view() {
+            padding: to_rem(38) 0;
+        }
     }
 
-    @include mobile-view() {
-        padding: to_rem(38) 0;
+    .article-continuation {
+        @include mobile-view() {
+            padding: 0 0 to_rem(81);
+        }
     }
 
     h1 {
@@ -236,6 +194,10 @@ p {
     }
 
     .sidebar {
+        @include mobile-view() {
+            display:none;
+        }
+
         .sidebar__image  img {       
             width: 100%;
             display: block;
@@ -252,7 +214,10 @@ p {
     }
 }
 
-%intro {
+$intro-mobile-space-top: to_rem(33);
+$intro-mobile-space-bottom: to_rem(26);
+
+@mixin intro-box {
     background-color: #00A2AD;
     color: #fff;
     padding: to_rem(45) 0 to_rem(65);
@@ -261,8 +226,12 @@ p {
     z-index: 900;
 
     @include mobile-view() {
-        padding: to_rem(33) 0 to_rem(26);
-    }
+        padding: $intro-mobile-space-top 0 $intro-mobile-space-bottom;
+    } 
+}
+
+%intro {
+    @include intro-box();
 
     a { 
         color: #fff;
@@ -415,6 +384,110 @@ p {
 
         @include mobile-view {
             display: none;
+        }
+    }
+}
+
+.section-home #intro-wrapper {
+    @extend %intro;
+
+    h1 {
+        color: #fff !important;
+        @include mobile-view() {
+            color: #1D71B8 !important;
+
+            &::after {
+                background-color: #1D71B8;
+            }
+        }
+    }
+
+    @include mobile-view() {
+        background-color: transparent;
+        color: #000;
+        position: unset;
+        box-shadow: unset;
+        padding: 0;
+
+        .wrapper {
+            padding: 0;
+
+            & > * {
+                padding-left: to_rem($mobile-margin);
+                padding-right: to_rem($mobile-margin);
+            }
+        }
+    }
+
+    
+    .intro {
+        @extend %left-hand-side;
+        order: 1;
+
+        @include mobile-view() {
+            padding-top: to_rem(29)
+        }
+
+        p:last-of-type {
+            margin-bottom: to_rem(8.31); 
+        }
+    }
+
+    .section-menu { 
+        @extend %right-hand-side;
+        order: 2;
+    
+        @include mobile-view() {
+            @include intro-box();
+        }
+
+        @include mobile-view() {
+            padding: $intro-mobile-space-top to_rem($mobile-margin) to_rem(37);
+        }
+
+        .section-menu__heading {
+            margin-bottom: to_rem(18) !important;
+            font-weight: 600;
+            font-size: to_rem(38);
+            line-height: 105%;
+            @include mobile-view() {
+                margin-bottom: to_rem(14) !important;
+                line-height: 115%;
+            }
+        }
+    
+        li {
+            font-weight: 500;
+            font-size: to_rem(26);
+            line-height: percentage(38/26);
+
+            margin-bottom: to_rem(15);
+
+            @include mobile-view() {
+                font-size: to_rem(18);
+                line-height: percentage(28/18);
+                margin-bottom: to_rem(8.31);
+            }
+    
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    
+        &::after {
+            content: '';
+            background-color: #fff;
+    
+            display: block;
+            height: 3px;
+            width: 100%;
+            
+            margin-top: to_rem(44.5);
+
+            @include mobile-view() {
+                content: unset;
+                display: none;
+            }
         }
     }
 }
