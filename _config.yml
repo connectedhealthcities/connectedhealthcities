@@ -34,6 +34,12 @@ kramdown:
 theme: null
 
 defaults:
+  - 
+    scope:
+      path: "*.md"
+    values:
+      layout: "section-home"
+
 
 collections:
   page_sections:

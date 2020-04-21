@@ -7,7 +7,7 @@
             "label": "jekyll (WSL)",
             "type": "shell",
             "command": "bash.exe",
-            "args": [  "--login", "-c", "bundle exec jekyll s --livereload -H 0.0.0.0"],
+            "args": [  "--login", "-c", "bundle exec jekyll s --livereload --trace -H 0.0.0.0"],
             "problemMatcher": [],
             "group": {
                 "kind": "build",
