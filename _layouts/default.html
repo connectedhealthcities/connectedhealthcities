@@ -5,14 +5,15 @@ layout: core
 <article id="main-content">
     {%- capture article -%}
     <h1>{{ page.title }}</h1>
+        <div class="content-container" role="presentation">
+        {%- for resource in page.resources -%}
+            {%- if forloop.first -%}<ul class="resources">{%- endif -%}
+            <li><a href="{{ resource.path | relative_url }}"><span class="resource-title">{{ resource.title }}</span></a></li>
+            {%- if forloop.last -%}</ul>{%- endif -%}
+        {%- endfor -%}
 
-    {%- for resource in page.resources -%}
-        {%- if forloop.first -%}<ul class="resources">{%- endif -%}
-        <li><a href="{{ resource.path | relative_url }}"><span class="resource-title">{{ resource.title }}</span></a></li>
-        {%- if forloop.last -%}</ul>{%- endif -%}
-    {%- endfor -%}
-
-    {{ content }}
+        {{ content }}
+    </div>
     {%- endcapture -%}
 
     {%- capture menu -%}

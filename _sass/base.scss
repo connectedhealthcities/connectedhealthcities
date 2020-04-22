@@ -162,7 +162,7 @@ p {
                 font-size: to_rem(12.1973);
             }
 
-
+            .default &:first-child,
             .home &:first-of-type {
                 font-weight: 600;
                 font-size: to_rem(28);
@@ -250,9 +250,40 @@ p {
         }
     }
 
+    @include mobile-view() {
+        .default & {
+            .wrapper {
+                display: flex;
+                padding: 0;
+            }
+            .left-hand-side {
+                margin: 0 to_rem($mobile-margin);
+                order: 1;
+                flex: auto;
+            }
+            .right-hand-side {
+                padding: to_rem(33) to_rem($mobile-margin) to_rem(44);
+                background-color: #00A2AD;
+                order: 0;
+                box-shadow: 0 0 to_rem(60) rgba(0, 0, 0, 0.25);
+                position: relative;
+                z-index: 900;
+
+            }
+        }
+    }
+
+    .default .left-hand-side p:first-child {
+        border: 1px solid blue;
+    }
+
     .section-menu {
 
         margin-top: to_rem(151);
+
+        @include mobile-view() {
+            margin: 0;
+        }
 
         &::after {
             content: '';
@@ -269,14 +300,26 @@ p {
             font-size: to_rem(38);
             line-height: percentage(40/38);
             margin-bottom: to_rem(15);
+
+            @include mobile-view() {
+                color: #fff;
+                font-size: to_rem(38);
+                line-height: percentage(44/38);
+                margin-bottom: to_rem(14);
+            }
         }
 
         ul li {
 
             margin-bottom: to_rem(15);
+            @include mobile-view() { 
+                margin-bottom: to_rem(8.31);
+            }
             &:last-child {
                 margin-bottom: 0;
             }
+
+            
 
             a {
                 font-weight: 500;
@@ -286,14 +329,31 @@ p {
                 &.active {
                     font-weight: bold;
                 }               
+
+                @include mobile-view() {
+                    color: #fff;
+                    font-size: to_rem(18);
+                    line-height: percentage(28/18) ;
+                }
             }
 
             ul {
                 margin: to_rem(16) 0 to_rem(20) to_rem(49);
+
+                @include mobile-view() {
+                    margin: to_rem(8) 0 to_rem(14) to_rem(62 - $mobile-margin);
+                    li {
+                        margin-bottom: to_rem(12);
+                    }
+                }
                 
                 a {
                     font-size: to_rem(20);
                     line-height: percentage(30/20);
+                    @include mobile-view() {
+                        font-size: to_rem(18);
+                        line-height: percentage(28/18) ;
+                    }
                 }
             }
         }
