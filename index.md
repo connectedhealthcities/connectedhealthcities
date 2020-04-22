@@ -1,5 +1,6 @@
 ---
 title: Connected Health Cities
+layout: home
 ---
 
 #  Community of <br> Practice
