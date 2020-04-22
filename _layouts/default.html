@@ -8,7 +8,7 @@ layout: core
 
     {%- for resource in page.resources -%}
         {%- if forloop.first -%}<ul class="resources">{%- endif -%}
-        <li><a href="{{ resource.path | relative_url }}">{{ resource.title }}</a></li>
+        <li><a href="{{ resource.path | relative_url }}"><span class="resource-title">{{ resource.title }}</span></a></li>
         {%- if forloop.last -%}</ul>{%- endif -%}
     {%- endfor -%}
 
@@ -19,7 +19,7 @@ layout: core
     {%- assign parents = page.parent | split: '/' -%}
     {%- assign current_section = parents | first -%}
     {%- assign root_page = site.pages | where: "section", current_section | first -%}
-    <h2>{{ root_page.title }}</h2>
+    <p class="section-menu__heading">{{ root_page.title }}</p>
 
     {%- assign current_path = "" | split: '|' | push: current_section -%}
     
@@ -28,5 +28,5 @@ layout: core
 
     {%- endcapture -%}
 
-    {%- include two_columns.html left_contents=article right_contents=menu -%}
+    {%- include two_columns.html left_contents=article right_contents=menu right_classes="section-menu" -%}
 </article>

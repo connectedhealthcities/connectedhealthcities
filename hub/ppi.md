@@ -1,5 +1,5 @@
 ---
-title: PPI
+title: Patient and Public Involvement
 weight: 5
 section: hub/ppi
 level: "2.5"

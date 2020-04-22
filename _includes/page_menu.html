@@ -11,8 +11,8 @@ parameters:
 {%- if include.count < 10 -%}
 
 {%- assign joined_path = include.current_path | join: "/" -%}
-{% assign section_pages = site.pages | where: "parent", joined_path | sort: 'weight' %}
-{% for current_section_page in section_pages %}
+{%- assign section_pages = site.pages | where: "parent", joined_path | sort: 'weight' %}
+{%- for current_section_page in section_pages %}
     {%- if forloop.first -%}<ul>{%- endif -%}
     
         {%- assign current_section_size = current_section_page.section | size -%}
@@ -21,20 +21,25 @@ parameters:
     
     {%- assign classes = "" -%}
     {%- assign possibly_equal = include.active_section | slice: 0, current_section_size -%}
-    <!-- {{ include.active_section }}, {{ possibly_equal }} == {{ current_section_page.section }} -->
-    {%- if possibly_equal  == current_section_page.section -%}
-    {%- assign classes = "active" -%}
+    {%- if possibly_equal == current_section_page.section -%}
+        {%- assign section_active = true -%}
+    {%- else -%}
+        {%- assign section_active = false -%}
     {%- endif -%}
-    <li class="{{classes}}"><a href="{{ current_section_page.url | realative_url }}">{{ current_section_page.title }}</a>
-    {%- if possibly_equal  == current_section_page.section -%}
+
+    {%- if section_active == true -%}
+    {%- assign classes = 'class="active"'' -%}
+    {%- endif -%}
+    <li><a {{classes}} href="{{ current_section_page.url | realative_url }}">{{ current_section_page.title }}</a>
+    
+    {%- if section_active == true -%}
         {%- assign new_path = current_section_page.section | split: '/' -%}
         {%- assign new_count = include.count + 1 -%}                
-        {%- include page_menu.html current_path=new_path count=new_count active_section=include.active_section -%}
-        
+        {%- include page_menu.html current_path=new_path count=new_count active_section=include.active_section -%}    
     {%- endif -%}
     </li>
 
     {%- if forloop.last -%}</ul>{%- endif -%}
-{% endfor %}
+{%- endfor %}
 
 {%- endif -%}    
