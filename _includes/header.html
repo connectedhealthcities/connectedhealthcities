@@ -1,10 +1,10 @@
 <header class="site-header">
     <div class="wrapper">
-        <input id="show-menu" type="radio" name="site-menu"  >
+        <input id="show-menu" type="radio" name="site-menu">
         <input id="show-contact" type="radio" name="site-menu" >
         <input id="show-none" type="radio" name="site-menu" checked >
 
-        <div class="left-hand-side">
+        <div class="site-header__logo-container" role="presentation">
             <a href="{{ '/' | relative_url }}">
                 <span class="site-header__logo">
                 {% include images/logo.svg %}
@@ -12,8 +12,8 @@
             </a>
         </div>
         
-        <div class="right-hand-side">
-            <ul class="site-header__menu">
+        
+            <ul class="site-header__menu" role="navigation">
                 <li id="show-menu-label" class="site-header__menu-item"><label tabindex="0" for="show-menu">Menu</label></li>
                 <li id="show-contact-label" class="site-header__menu-item"><label tabindex="0" for="show-contact">Contact</label></li>
                 <li id="close-menu-label" class="site-header__menu-item"><label for="show-none">
@@ -24,7 +24,7 @@
                 </label></li>
             </ul>
 
-            <ul class="site-header__page-menu">
+            <ul class="site-header__page-menu" role="navigation">
                 {%- for path in site.header_pages -%}
                     {%- assign extra_class = "" -%}
                     {%- assign my_page = site.pages | where: "path", path | first -%}
@@ -38,7 +38,7 @@
                 
             </ul>
             
-        </div>
+        
 
         
     </div>

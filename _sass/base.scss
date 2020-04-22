@@ -34,9 +34,14 @@ body {
     }
 }
 
+$desktop-left-width: 588;
+$desktop-left-margin: 141;
+$desktop-right-width: 466;
+
+
 %left-hand-side {
-    width: to_rem(588);
-    margin-right: to_rem(141);
+    width: to_rem($desktop-left-width);
+    margin-right: to_rem($desktop-left-margin);
     order: 10;
     flex: none;
 
@@ -47,7 +52,7 @@ body {
 }
 
 %right-hand-side {
-    width: to_rem(466);
+    width: to_rem($desktop-right-width);
     order: 11;
 
     @include mobile-view() {
@@ -646,15 +651,24 @@ $intro-mobile-space-bottom: to_rem(26);
     position: relative;
     z-index: 1000;
 
-    @include mobile-view {
-        .wrapper {
-            display: flex;
-        }
-        .left-hand-side, .right-hand-side {
-            width: auto;
-            display: inline-block;
+    .wrapper {
+        display: grid;
+        grid-template-columns: 1px*$desktop-left-width 1px*$desktop-right-width;
+        grid-gap: 0 1px*$desktop-left-margin;
+        gap: 0 1px*$desktop-left-margin;
+
+        @include mobile-view() {
+            grid-template-columns: to_rem(45) 1fr;
+            grid-gap: 0 to_rem(75);
+            gap: 0  to_rem(75);
         }
     }
+    
+
+    .site-header__logo-container {
+        grid-row: 1/3;
+    }
+    
 
     &__logo {
         display: inline-block;
@@ -678,7 +692,6 @@ $intro-mobile-space-bottom: to_rem(26);
             font-size: 20px;
             line-height: 35px;
             margin-top: to_rem(27);
-            margin-left: to_rem(75);
         }
     }
 
@@ -766,7 +779,7 @@ $intro-mobile-space-bottom: to_rem(26);
 
         @include mobile-view() {
             margin: to_rem(24) 0;
-            margin-left: to_rem(-44);
+            grid-column: 1/-1;
         }
 
         li {
@@ -782,14 +795,14 @@ $intro-mobile-space-bottom: to_rem(26);
         }
     }
 
-    input:checked ~ * .site-header__page-menu {
+    input:checked ~ .site-header__page-menu {
         display: none;
         opacity: 0;
         transition: all $transition-time linear;
     }
     
 
-    #show-menu:checked ~ * .site-header__page-menu {
+    #show-menu:checked ~ .site-header__page-menu {
         display: block;
         opacity: 1;
         transition: all $transition-time linear;
