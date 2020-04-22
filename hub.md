@@ -7,8 +7,6 @@ intro: | #this means everything indented below is included
 sidebar_image: 'assets/images/index/data-saves-lives.jpg'
 sidebar_image_caption: Image description
 section: hub
-index: true
-layout: section-home
 ---
 
 Ut sit amet ornare purus. Vivamus dapibus dolor nec ex lacinia, quis feugiat mauris feugiat. Donec elementum hendrerit semper. Suspendisse cursus egestas orci, quis malesuada odio mollis ut. Aenean et lacus nec nunc elementum viverra et tempor ligula. Nulla a gravida ante. Proin sit amet massa suscipit, tincidunt dolor nec, rutrum neque. Donec at egestas turpis. Quisque porta augue in elit rhoncus, sed venenatis velit dictum. Maecenas sit amet feugiat eros. Vestibulum sit amet dolor sodales, gravida metus ut, feugiat urna. Phasellus et ultricies turpis, et cursus neque.Aenean et lacus nec nunc elementum viverra et tempor ligula. Nulla a gravida ante. Proin sit amet massa suscipit, tincidunt dolor nec, rutrum neque. Donec at egestas turpis. Quisque porta augue in elit rhoncus, sed venenatis velit dictum. Maecenas sit amet feugiat eros. Vestibulum sit amet dolor sodales, gravida metus ut, feugiat urna. Phasellus et ultricies turpis, et cursus neque.
