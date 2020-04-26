@@ -6,7 +6,7 @@ section: hub/ppi/realist-evaluation-of-public-engagement-and-involvement-in-data
 level: 2.5.6
 parent: hub/ppi
 resources:
-    - path: /assets/hub/Section 2.5.6_Realist Evaluation of Public Engagement and Involvement in Data-intensive Health Research.docx
+    - path: /assets/hub/Section 2.5.6_Realist Evaluation of Public Engagement and Involvement in Data-intensive Health Research.pdf
       title: Realist Evaluation of Public Engagement and Involvement in Data-intensive
         Health Research
 ---
