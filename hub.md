@@ -9,8 +9,6 @@ section: hub
 
 ## The CHC Co-ordinating Centre
 
-
-
 The role of the Hub was to bring together the four CHC so that they could share learning, resources and ensure that what worked in one region can be replicated in another.
 
 The Hub delivered a number of cross-cutting projects that unite experts from across the North for patient benefit. These projects included training and education, public engagement, information governance and industry engagement.
