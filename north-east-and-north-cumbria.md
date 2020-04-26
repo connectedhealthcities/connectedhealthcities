@@ -4,7 +4,7 @@ intro: | #this means everything indented below is included
     Following the announcement of Northern Powerhouse funding to support the Connected Health Cities (CHC) initiative early in 2016, a CHC was established in the North East and North Cumbria (CHC NENC).
 
     Operating from a state of the art building, The Core is part of the Science Central initiative in the heart of Newcastle upon Tyne.
-section: nenc
+section: north-east-and-north-cumbria
 layout: section-home
 ---
 
