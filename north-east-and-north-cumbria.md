@@ -10,16 +10,16 @@ layout: section-home
 
 The CHC NENC has been active since March 2016 and the member institutions in the North East and North Cumbria are:
 
-* Newcastle University
-* Durham University
-* The Newcastle upon Tyne Hospitals NHS Foundation Trust
-* South Tees Hospitals NHS Foundation Trust
-* The Academic Health Science Network for the North East and North  Cumbria (AHSN NENC)
+- Newcastle University
+- Durham University
+- The Newcastle upon Tyne Hospitals NHS Foundation Trust
+- South Tees Hospitals NHS Foundation Trust
+- The Academic Health Science Network for the North East and North  Cumbria (AHSN NENC)
 
 The original executive team for CHC NENC was:
 
-* Dr Joe McDonald: Director
-* Dr Nick Booth: Chief Information Officer
-* Mark Walsh: Operations Director
+- Dr Joe McDonald: Director
+- Dr Nick Booth: Chief Information Officer
+- Mark Walsh: Operations Director
 
 March 2017, saw the arrival of a fourth member of the executive team when Paul Burton joined the project as the new Professor of Data Science for Health at Newcastle University. As the lead representative for the University on CHC NENC, the project became one of his two major research commitments.
