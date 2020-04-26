@@ -1,6 +1,8 @@
 # connectedhealthcities
 CHC Final Report website
 
+Site is viewabile at https://connectedhealthcities.github.io
+
 ## Overview of site
 
 Site is built using Github Pages, which uses [Jekyll] `3.8.5`
