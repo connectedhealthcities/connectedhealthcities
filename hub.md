@@ -5,7 +5,7 @@ intro: | #this means everything indented below is included
 
     The role of the Hub was to bring together the four CHC so that they could share learning, resources and ensure that what worked in one region can be replicated in another.
 sidebar_image: 'assets/images/index/data-saves-lives.jpg'
-sidebar_image_caption: Image description
+sidebar_image_caption: DataSavesLives
 section: hub
 ---
 
