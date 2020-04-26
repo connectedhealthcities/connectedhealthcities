@@ -5,6 +5,7 @@ intro: | #this means everything indented below is included
 
     Operating from a state of the art building, The Core is part of the Science Central initiative in the heart of Newcastle upon Tyne.
 section: nenc
+layout: section-home
 ---
 
 The CHC NENC has been active since March 2016 and the member institutions in the North East and North Cumbria are:
