@@ -1,6 +1,6 @@
 ---
 title: Connected Yorkshire
-intro: |
+intro: | #this means everything indented below is included
     Connected Yorkshire is a region-wide digital community programme covering over five million people that will provide a shared platform for developing innovative approaches to improving health and wellbeing. This platform will allow interventions to be developed and tested.
 section: connected-yorkshire
 layout: section-home
