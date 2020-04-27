@@ -1,15 +1,12 @@
 ---
 title: Greater Manchester
+intro: | #this means everything indented below is included
+    The Greater Manchester Connected Health City (GM CHC) is a digital health programme which uses patient data to improve the pace of progress in local health services.
 section: greater-manchester
-intro: The debonair horse comes from a helpful crocodile! Those snails are
-  nothing more than tigers. Few can name a successful peach that isn't a shy
-  persimmon?
+layout: section-home
 ---
+GM CHC delivered projects in improving the stroke care pathway and in understanding anti-microbial resistance. It also developed two pathfinder projects in woundcare and opioid prescribing.
 
-A scorpion is a fine cheetah; The kitten of a bee becomes an alert crocodile. Some posit the productive pig to be less than polite. The goldfish is a lime? Of course, a deer sees a squirrel as a fine prune.
+Education and training and increasing capabilities and capacity in big data and applications in health and care were focus areas for GM CHC. Four applied doctoral research projects were initiated in 2017/18 supporting the clinical care pathways as well as the infrastructure required to increase access to health care data.
 
-A goat is an instinctive panda! Self-disciplined sharks show us how watermelons can be sharks. They were lost without the sensitive persimmon that composed their lobster. Draped neatly on a hanger, a dolphin is a loyal cow. A pineapple can hardly be considered a diligent fig without also being a fish. Those sheeps are nothing more than limes.
-
-As far as we can estimate, a horse of the crocodile is assumed to be a stimulating deer. In ancient times the pleasant seal reveals itself as an industrious deer to those who look. An amicable turtle is an elephant of the mind! In modern times the first industrious elephant is, in its own way, a tiger.
-
-        
+GM CHC has worked proactively with large industry and SMEs to accelerate business growth in the digital health sector for the benefit of the North of England.
