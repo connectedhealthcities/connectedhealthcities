@@ -4,7 +4,7 @@ intro: | #this means everything indented below is included
     The Connected Health Cities pilot project in the North West Coast is being delivered by the Innovation Agency, the Academic Health Science Network (AHSN) for the area.
 
     We are one of 15 AHSNs set up by NHS England to act as catalysts for the spread of innovation; connecting businesses, NHS, academia, local authorities, third sector and other organisations to improve health and generate economic growth.
-section: north-west-cost
+section: north-west-coast
 layout: section-home
 ---
 Our aims through Connected Health Cities are to:
