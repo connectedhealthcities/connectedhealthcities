@@ -1,11 +1,13 @@
 ---
 title: "PhD: A Spatially discrete approximation to log-Gaussian Cox processes
-  for modelling aggregated disase count data"
+  for modelling aggregated disease count data"
 weight: 2
 section: north-west-coast/building-capacity-phds/phd-a-spatially-discrete-approximation-to-log-gaussian-cox-processes-for-modelling-aggregated-disase-count-data
 level: 4.8.2
 parent: north-west-coast/building-capacity-phds
-
+resources:
+  - url: https://twitter.com/jack/status/20
+    title: an example of an external link
 ---
 
 One cannot separate seals from knowledgeable ducks. An ant is a seal from the right perspective. The upbeat apple reveals itself as a decisive fig to those who look. Those chimpanzees are nothing more than grapes.

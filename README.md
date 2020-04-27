@@ -75,7 +75,7 @@ front-matter:
 | intro                  | `Markdown` of text in turqoise box                           |
 | section                | the `slug` of the section (used to identify sub-pages)       |
 | parent                 | the parent page's `section`                                  |
-| resources              | array of `path` and `title` of any linked resources **optional** <br>eg:<br>`  path: /assets/hub/information-governance-final-report.pdf`<br>`title: Information Governance Final Report` |
+| resources              | array of (`path`|`url`) and `title` of any linked resources **optional** <br>eg:<br>`  path: /assets/hub/information-governance-final-report.pdf`<br>`title: Information Governance Final Report`<br><br>or<br>`  url: https://twitter.com/jack/status/20`<br>`title: Information Governance Final Report`|
 | weight                 | value to determine order of pages in menus (lower weight comes first) |
 
 ### Footer

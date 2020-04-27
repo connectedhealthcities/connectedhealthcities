@@ -8,7 +8,13 @@ layout: core
         <div class="content-container" role="presentation">
         {%- for resource in page.resources -%}
             {%- if forloop.first -%}<ul class="resources">{%- endif -%}
-            <li><a href="{{ resource.path | relative_url }}"><span class="resource-title">{{ resource.title }}</span></a></li>
+            
+            {%- if resource.path -%}
+                <li><a href="{{ resource.path | relative_url }}"><span class="resource-title">{{ resource.title }}</span></a></li>
+            {%- else -%} 
+                <li class="resource__external"><a href="{{ resource.url}}"><span class="resource-title">{{ resource.title }}</span></a></li>
+            {%- endif -%}
+
             {%- if forloop.last -%}</ul>{%- endif -%}
         {%- endfor -%}
 

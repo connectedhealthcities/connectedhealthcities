@@ -246,12 +246,24 @@ p {
                     content: '';
                     display: block;
                     background-image: url('../images/pdf.svg');
+                    background-repeat: no-repeat;
+                    background-position: center center;
                     width: 47px;
                     height: 76px;
                     margin-right: to_rem(39);
                     flex: none;
                 }
                 
+            }
+
+            &.resource__external {
+                .resource-title::before {
+                    content: 'External: ';
+                    color: #AD2B51;
+                }
+                a::before {
+                    background-image: url('../images/link.svg');
+                }
             }
         }
     }
