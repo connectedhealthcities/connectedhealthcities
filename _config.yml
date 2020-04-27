@@ -34,12 +34,6 @@ kramdown:
 theme: null
 
 defaults:
-  - 
-    scope:
-      path: "*.md"
-    values:
-      layout: "section-home"
-
 
 collections:
   page_sections:
@@ -99,3 +93,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - .vscode/
+  - README.md
