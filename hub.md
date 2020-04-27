@@ -7,6 +7,7 @@ intro: | #this means everything indented below is included
 sidebar_image: 'assets/images/index/data-saves-lives.jpg'
 sidebar_image_caption: DataSavesLives
 section: hub
+layout: section-home
 ---
 
 The Hub delivered a number of cross-cutting projects that unite experts from across the North for patient benefit. These projects included training and education, public engagement, information governance and industry engagement.
