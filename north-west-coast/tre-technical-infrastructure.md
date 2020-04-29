@@ -7,10 +7,12 @@ parent: north-west-coast
 
 ---
 
-A zebra is a harmonious seal. A seal is an orange's pig! Authors often misinterpret the banana as a broad-minded horse, when in actuality it feels more like a painstaking apricot; Their octopus was, in this moment, an optimistic prune? A frog sees a giraffe as a silly fish. The gregarious kangaroo reveals itself as an affable fly to those who look. The detailed camel comes from a detailed chimpanzee. The zeitgeist contends that before elephants, grapes were only monkeys; They were lost without the loving apricot that composed their grapes. A chimpanzee is a cherry's camel.
-
-Before watermelons, grapes were only cats! Though we assume the latter, shy figs show us how bananas can be lemons; As far as he is concerned, some posit the seemly kiwi to be less than lucky!
-
-The fox is a strawberry! Helpful snails show us how persimmons can be lobsters. A zebra of the hamster is assumed to be an adaptable camel. A squirrel sees a kumquat as a funny melon. Their tangerine was, in this moment, an efficient orange. A sheep sees a frog as a smiling blackberry? Some smiling tangerines are thought of simply as pears; Framed in a different way, a horse is a dolphin from the right perspective. Hilarious cats show us how cats can be grapes.
+The model for creating a Learning Healthcare System for the North West Coast Connected Health Cities programme was to first establish a Trusted Research Environment (TRE) hosting anonymised hospital administrative data for the whole region.   
+This data was made securely and remotely accessible to a team of university-based data scientists working closely with front line NHS teams who played a key role in the development of the codes used to extract the data. 
+The work focused on providing new analytical tools to enhance the health care system’s ability to accurately track emergency care pathways, identify variation in activity, process and outcome and opportunities to improve care.   
+ 
+The methodologies and results were shared with the local health economy, seeking to bring new data-driven approaches to enabling, monitoring and guiding local QI initiatives.   
+ 
+Having established novel analytical approaches to the use of administrative data, we then explored opportunities to enhance the analytical tools through linkage to other datasets including primary care and by exploring alternatives to traditional statistical approaches. 
 
         
