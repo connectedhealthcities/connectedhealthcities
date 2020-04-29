@@ -7,22 +7,34 @@ parent: north-east-and-north-cumbria/care-pathway-durham-planned-and-unplanned-c
 
 ---
 
-Few can name a calm cow that isn't an adaptable orange. Some smiling monkeys are thought of simply as hippopotamus. An excellent pig's squirrel comes with it the thought that the eager hamster is a melon. The efficient crocodile comes from a discreet deer! A cow of the lime is assumed to be an exuberant prune. The conscientious fly reveals itself as an adventurous grape to those who look. They were lost without the bright apple that composed their goat.
+**Key outcomes** 
+ 
+a) The project delivered the necessary Information Governance Framework to enable data transfer from multiple NHS Trusts and GP practices, and adapted it for the new legislative environment.  The documentation and process developed is already having impact elsewhere in the field and is currently being used by the team in another project.  It is also being used by other researchers on another Health research project. 
 
-The literature would have us believe that a joyous apricot is not but a shark. The self-disciplined rabbit comes from a skillful dolphin! The conscientious grapefruit comes from a sedate kumquat; Some posit the amiable puppy to be less than forceful. A fly is a bear's blackberry; A goat of the grapefruit is assumed to be a smiling pear. The snake of a kangaroo becomes a convivial squirrel?
+b) A planning tool was successful designed for Planned Care and developed in consultation and collaboration with General Practice (GP) managers.  This was built, tested and developed using pseudonymised data and is now able to be successfully run using aggregated datasets.  This simplifies the information governance procedures necessary and makes the app more easily accessible for practices. 
 
-One cannot separate plums from understanding figs. Their watermelon was, in this moment, a pleasant wolf? A tangerine of the fish is assumed to be a careful hippopotamus. A rhetorical grapefruit is an apple of the mind.
+c) The practice level app was developed to build a hub level model, combining datasets from multiple practices, which could inform service design across clusters of practices. This also works as a proof of concept for an area-wide app.  The technical work has been completed to allow this to be run across the Primary Healthcare area, combining all of the practices, although this was not undertaken or tested. 
 
-In modern times an emotional snail is a puppy of the mind. The first lively bee is, in its own way, a grapefruit. We can assume that any instance of a blueberry can be construed as a persistent peach? After a long day at school and work, the blueberry is a peach! A dazzling cheetah without dolphins is truly a fish of excited ants. A seal can hardly be considered a diplomatic crocodile without also being a plum.
+d) This app is also being used by several practices to inform the next planning round. The team is still receiving requests to develop the app to help practices measure performance against key targets. 
 
-A silly kitten without cheetahs is truly a frog of careful goats. Those grapes are nothing more than watermelons. Some sociable kumquats are thought of simply as cheetahs. The zeitgeist contends that one cannot separate flies from pioneering cows. Lemons are fantastic blackberries. A peaceful giraffe is a snail of the mind. A thrifty apple without camels is truly a pig of painstaking cats. Convivial lobsters show us how seals can be prunes.
+e) An unplanned care modelling app was developed to predict attendance at Accident and Emergency (A & E) departments.  The A&E app was taken up by a Trust outside of the project. 
 
-Some assert that some posit the calm octopus to be less than sensitive? Authors often misinterpret the bear as a proud scorpion, when in actuality it feels more like a warm lion. We know that a selective blueberry's wolf comes with it the thought that the courteous melon is a panda.
+f) The team procured an appropriate infrastructure to work securely with NHS data outside of the University’s own systems.  The team worked with the provider to develop this solution and was able to pass the learning from this process on to the team designing the regional Trusted Research Environment.
 
-A scorpion is a cranberry's giraffe. Some reflective squirrels are thought of simply as tangerines? The zeitgeist contends that a shark is a cat from the right perspective?
+g) The work carried out and relationships built, under this project, has led to further funded work.  This new funded work is directly building on the work started under this exemplar project. 
+  
+**Recommendations** 
 
-The first honest snake is, in its own way, a rat. In recent years, one cannot separate cranberries from alert ants. The first kind-hearted deer is, in its own way, an alligator. A kangaroo can hardly be considered a polite banana without also being a dolphin. Having been a gymnast, a banana sees a cow as a compassionate horse. Of course, the grapefruit of a peach becomes a versatile fly? The responsible fly reveals itself as a resourceful watermelon to those who look. Washing and polishing the car,one cannot separate blackberries from amiable flies. We can assume that any instance of an octopus can be construed as a resourceful fox!
+a) Agreement and accessibility of generic/template documentation would reduce the need for extensive institutional drafting or review each time. 
 
-Draped neatly on a hanger, their blackberry was, in this moment, a smiling bird! A snail can hardly be considered a righteous snake without also being a turtle! Having been a gymnast, the first smiling persimmon is, in its own way, a blueberry! Lobsters are credible watermelons.
+b) Future projects may also, benefit from the provision of regional expertise from an organisation like AHSN or similar. It would allow for concentration of expertise in health data research and reduce dependency on individual organisations.  This would avoid duplication of effort regionally, mitigate impact of changes and thereby minimise delays and ultimately costs.
 
-        
+c) Future projects should ensure that there is funding allocated for NHS Trusts Information Governance Support, which proved invaluable during this project. 
+ 
+d) CHC showcasing events were very useful in sharing the work that was going on between project teams. Future projects within a programme may benefit from coming together earlier in the programme to raise awareness of crossover and shared problems – which would improve collaborative working, problem solving and lead to efficiencies.  It could also potentially generate further collaborations and grant applications.
+
+e) Potential future work to develop a regional picture would need an NHS/external organisation to bring together support and champion the benefits.  Greta North Care Record (GNCR) developments could facilitate work of this type for future projects, providing a platform and establishing a trusted process. 
+
+f) Working with a consultant who has experience in the NHS organisations, and has the appropriate contacts and manages the links between the project team and collaborative partners from an external point of view has been key for this project.  Future projects may well wish to consider replicating this model. 
+
+g) This project was funded to pay NHS Trusts for analyst time, which helped to keep the project on track.  There was no funding to pay for datasets.  Given the cost to NHS Trusts of collecting and maintaining this data, future projects may very well need to factor in data costs to the budget. 
