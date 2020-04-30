@@ -19,10 +19,10 @@ Added to this the project also asked the patients to indicate their preferred mo
 
 The aim and objectives of the Connect Patient Project were: 
 
-Aim:  To evaluate a service improvement project for acceptability and feasibility from the viewpoint of 
+**Aim:**  To evaluate a service improvement project for acceptability and feasibility from the viewpoint of 
 patients and practice staff.  
 
-Objectives:  
+**Objectives:**  
 1. To explore the influences on patient choices and identify if there are any correlations 
 between patient preferences on data sharing, preferred mode of contact, age range, gender 
 and presence or not of a long-term condition. 
@@ -36,6 +36,7 @@ practice employees.
 potentially sharing personal information. 
 
 The project was operationalised via a two-stage process. Work Package 1 (WP1) was a Service Improvement Project (SIP) conducted by a postal survey questionnaire. The questionnaire was sent to all the patients who fell within the inclusion and exclusion criteria (4678).  
+
 Work Package 2 (WP2) was a mixed methods research study to assess the acceptability and feasibility of WP1. This was completed by using descriptive statistics and by conducting interviews with both patients and staff.  
 
 The WP1 survey had a response rate of 24%. Older, female patients were more likely to respond. 58% of the total 60+ age group responded. 4% of the 18-29yrs. age group responded. SMS was the most popular mode of contact across all age groups with the exception of the 70+ age group, where letter was preferred. Permission to contact by at least one of the three organisations was given by 61% of the responders. The single most popular response was NNN, where permission was denied to all three organisations. This was followed by YYY, which gave permission to all three organisations. Women were more likely to respond yes than men, with the exception of the 70+ age group where more women said NNN, than men. The presence or not of a long-term condition did not affect the permissions responses. However, reflecting the demographic profile of the responders, they were more likely to have a long-term condition.  
