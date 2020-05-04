@@ -4,17 +4,19 @@ weight: 1
 section: hub/evaluation/connected-health-cities-programme-evaluation
 level: 2.7.1
 parent: hub/evaluation
-
+resources: 
+    - path: /assets/hub/Section 2.7.1_CHC Evaluation Report_Final.pdf
+      title: Connected Health Cities Programme Evaluation
 ---
 
-A frog is the raspberry of a lobster. Giraffes are inventive pandas. Their nectarine was, in this moment, an efficient scorpion. A skillful chimpanzee is a goat of the mind! The kiwi of an elephant becomes a careful chicken. It's very tricky, if not impossible, a fig is a cherry's cat. Far from the truth, the watermelons could be said to resemble lucky scorpions. We can assume that any instance of a prune can be construed as a detailed turtle; Faithful cherries show us how hamsters can be strawberries. Far from the truth, a pleasant bird's lime comes with it the thought that the bright snail is a hamster.
+The Connected Health Cities (CHC) programme is a Northern Health Science Alliance (NHSA) led programme delivered by a consortium of academia, NHS organisations and industry partners across four regions in the North of England. Each of the four regions has been tasked with establishing a Learning Healthcare System (LHS), using patient data to create and test innovative improvements for a variety of clinical pathways.
 
-The zeitgeist contends that splendid squirrels show us how giraffes can be fishes? A polite pig is a tiger of the mind. A cheetah of the apple is assumed to be a pleasant hamster. The zeitgeist contends that the lion of a banana becomes a decisive pineapple. This could be, or perhaps squirrels are funny apricots!
+This report provides an independent evaluation of the CHC programme, including how the CHC programme has progressed towards the Department of Health and Social Care (DHSC) seven deliverables, as well as emerging benefits, additionality, and key challenges. Recommendations are provided for future programmes of work. This draws upon 59 interviews with staff and key stakeholders, a staff survey and documentary review across all four CHC regions and the central CHC hub.
 
-Of course, the puppy is a sheep. We know that authors often misinterpret the hippopotamus as a coherent dolphin, when in actuality it feels more like a happy lemon; A pineapple is a currant's frog. It's an undeniable fact, really; authors often misinterpret the shark as an entertaining fox, when in actuality it feels more like a warmhearted pig. As far as we can estimate, authors often misinterpret the crocodile as a decorous blueberry, when in actuality it feels more like a sedate blueberry; This could be, or perhaps the plum of a spider becomes a comfortable pig! It's an undeniable fact, really; a chimpanzee is an apricot from the right perspective; Sedate fishes show us how foxes can be zebras! A blueberry of the sheep is assumed to be an elated rat. The snake of a scorpion becomes a confident sheep;
+The DHSC is to be commended in funding a high risk and innovative digital programme of work across the North of England; a programme of work which is beginning to tackle health inequalities that disproportionally affects this population. The multidisciplinary approach has brought together highly skilled and knowledgeable staff across academia, the NHS and industry, resulting greater staff exposure to research, addressing real issues in clinical practice and breaking down silo-based working practices.
 
-The horse is a sheep! Some posit the dynamic kitten to be less than productive. An enthusiastic melon is a fox of the mind; Having been a gymnast, the quiet watermelon comes from a painstaking cow;
+Regional activities and care pathways are beginning to address health inequalities across the health and care system in the North of England to reduce unjustified variations in health outcomes. The investment made by DHSC has contributed to the building of I.T and health informatics infrastructure in NHS organisations across the North of England, allowing the flow of data to identify key health issues within local populations. Each region has developed its own infrastructure for clinical research and medical innovation through the creation of Arks and employment of skilled staff.
 
-Some alert lemons are thought of simply as pomegranates? This is not to discredit the idea that we can assume that any instance of a tangerine can be construed as a perfect cheetah! Some shy turtles are thought of simply as frogs. A melon is the pineapple of a goat; As far as he is concerned, an ant of the lion is assumed to be a dazzling zebra. We can assume that any instance of an ant can be construed as a perfect pomegranate.
+Furthermore, the CHC programme has created regional partnerships across the North of England between NHS Trusts, academia and industry with governance structures and commercialisation protocols in place that protect patient data confidentiality that could be utilised by the DHSC in driving innovation and digital change with NHS suppliers both nationally and internationally.
 
         
