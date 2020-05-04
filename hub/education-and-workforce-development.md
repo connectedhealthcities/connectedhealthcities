@@ -18,7 +18,7 @@ This work was carried out in three stages:
 1. Review of current practice to understand how best to provide sustainable digital solutions;
 2. Identification of key training needs through conducting 25 interviews across eight case-studies; and
 3. Design of a 10-step short workshop programme.
- 
+
 Specific areas were highlighted as being the most important for implementing a successful learning health system project:
 
 - Health economics and how to evidence impact and return on investment;

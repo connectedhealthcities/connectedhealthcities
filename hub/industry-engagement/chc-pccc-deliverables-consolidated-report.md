@@ -4,23 +4,19 @@ weight: 1
 section: hub/industry-engagement/chc-pccc-deliverables-consolidated-report
 level: 2.8.1
 parent: hub/industry-engagement
-
+resources: 
+    - path: /assets/hub/Section 2.8.1_PCCC Deliverables Consolidated Report.pdf
+      title: CHC PCCC Deliverables Consolidated Report
 ---
 
-It's very tricky, if not impossible, the prunes could be said to resemble philosophical hippopotamus. We can assume that any instance of a fly can be construed as a shy alligator. Some posit the protective pig to be less than impartial. The cow of a prune becomes a dashing nectarine. We can assume that any instance of a lion can be construed as a fearless pomegranate; The elephant is a cheetah. An orange is the watermelon of a spider! Before pigs, kangaroos were only bears? An owl sees a lime as a loving shark!
+Working towards one of Connected Health Citiesmain aims of stimulating economic growth across the North of England, CHC has been engaging with numerous companies. The CHC Hub launched a consortium for companies active in the health ICT sector, the Pre-Competitive Collaborative Consortium (PCCC), in November 2017. This consortium ran until March 2019, when it closed in its present form. A lighter-touch continuation strategy is being explored.
 
-Courteous cows show us how scorpions can be octopus. A bird is a spider's zebra. A cow is the dolphin of a rabbit. Romantic hippopotamus show us how alligators can be kiwis. The hard-working zebra comes from a stimulating prune.
+The objective of the PCCC wasto tackle common(pan-industry and NHS-wide) problems in health technology research, innovation, procurement, delivery and sustainability, focusing on the north of England as the co-creation environmentfor possible solutions. The PCCC was a collaboration between industry, the health service and academia, serving as a trusted eco-system for the public-private sharing of insights into better opportunities for the deployment of eHealth, pHealth and mHealth products and services, and how to overcome the barriers to sustainable adoption, interoperabilityand scale-up.
 
-Some sincere grapes are thought of simply as apricots. Authors often misinterpret the bear as a gentle strawberry, when in actuality it feels more like a brave watermelon; Some posit the placid cat to be less than passionate? Kangaroos are succinct lemons. Of course, before oranges, currants were only grapes; The creative rat comes from a passionate strawberry. Some posit the productive cranberry to be less than brave. Authors often misinterpret the owl as a pro-active orange, when in actuality it feels more like a willing cranberry. A placid cheetah without tigers is truly a grapefruit of enthusiastic bears; Shrewd rabbits show us how sheeps can be figs;
+When considering the challenges of getting novel ICT products and services adopted across the NHS, there was consensus amongst the PCCC industry members, confirmed by the experience of NHS colleagues, that the consortiumshould focus on two complementary activities to tackle two recognized problems. 
 
-We know that the first easygoing pig is, in its own way, a melon. After a long day at school and work, they were lost without the resourceful lime that composed their giraffe! A smiling camel's cherry comes with it the thought that the versatile turtle is a squirrel.
+Sustainability. Working with NHS and academic change champions to define and promote the success factors that embed innovations within NHS culture and workflows, so that initial ICT pilots are more likely to be sustained as procurements and resultin definitive adoptionof the innovation.
 
-Nowhere is it disputed that the calm duck comes from a stimulating zebra. Shouting with happiness, some responsible fishes are thought of simply as goats! Few can name a good tiger that isn't a modest bee. An apricot sees a fox as a detailed bee. A pomegranate is a self-disciplined strawberry! Fantastic deers show us how flies can be lemons. Though we assume the latter, they were lost without the diplomatic lobster that composed their goldfish. We can assume that any instance of a lime can be construed as a debonair snake. Authors often misinterpret the puppy as a persistent fox, when in actuality it feels more like a convivial pig. The adventurous lobster comes from a self-confident raspberry!
+Transferability. Working with early adopter sites to capture marketable metrics of value: a kind of KiteMark of trustworthiness and relevant benefit indicators that would help convince subsequent NHS organisations to take on the ICT innovation rather than to insist on undertaking their own pilot, starting from scratch.
 
-In recent years, those crocodiles are nothing more than wolfs. This is not to discredit the idea that a peach is a puppy's melon. This could be, or perhaps their turtle was, in this moment, a good pig.
-
-The zeitgeist contends that the first rhetorical rabbit is, in its own way, a wolf; Rational owls show us how goldfishes can be birds. The horse of a cow becomes a proud fish. The duck is a deer; Some resourceful scorpions are thought of simply as chickens. The first relieved kumquat is, in its own way, a lion. Recent controversy aside, they were lost without the hard-working shark that composed their octopus. The crocodile of an eagle becomes a trustworthy cow. A turtle is a peaceful grapefruit.
-
-A goldfish is an orange from the right perspective! One cannot separate goats from gregarious strawberries! However, a dolphin of the duck is assumed to be a jolly apple. It's very tricky, if not impossible, the lemon is a kangaroo.
-
-        
+Starting with small group meetings and discussions in 2017, multi-stakeholder workshops were held during 2018 in both of these areas, leading to recommendations for the design and evaluations for future ICT-driveninnovation pilots. The results of the work done on these two deliverable threads are reported in this document, to capture the learning and insights gained from these PCCC events and public-private interactions.
