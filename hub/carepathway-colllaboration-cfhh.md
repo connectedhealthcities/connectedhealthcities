@@ -1,7 +1,7 @@
 ---
 title: Carepathway colllaboration CFHH
 weight: 4
-section: hub/carepathway-colllaboration-cfhh
+section: hub/carepathway-collaboration-cfhh
 level: "2.4"
 parent: hub
 

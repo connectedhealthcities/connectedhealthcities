@@ -4,7 +4,7 @@ title: CFHH Paper? Have got BMJ publication could use? Hind et al BMC pulmonary
 weight: 1
 section: hub/carepathway-colllaboration-cfhh/cfhh-paper-have-got-bmj-publication-could-use-hind-et-al-bmc-pulmonary-medicine
 level: 2.4.1
-parent: hub/carepathway-colllaboration-cfhh
+parent: hub/carepathway-collaboration-cfhh
 resources: 
     -    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6458785/
         title: Supporting medication adherence for adults with cystic fibrosis: a randomised feasibility study
