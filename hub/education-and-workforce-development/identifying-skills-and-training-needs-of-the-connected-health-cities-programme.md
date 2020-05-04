@@ -6,7 +6,7 @@ level: 2.6.1
 parent: hub/education-and-workforce-development
 resources: 
     - path: /assets/hub/Section 2.6.1_Identifying Skills and Training Needs.pdf
-      title: Supporting medication adherence for adults with cystic fibrosis: a randomised feasibility study
+      title: Identifying Skills and Training Needs of the Connected Health Cities Programme
 ---
 
 * Numerous NHS policies (e.g., Five Year Way Forward, Wachter Review) have highlighted the importance of developing informatics and data skills in the workforce to facilitate the improvement and quality of care in health. Connected Health Cities (CHC) a pilot cross sector learning health systems programme that focuses on improvement of care was the first of its kind that embedded research into clinical workflows. As such, workforce Development and building skills capacity is a component of the Connected Health Cities programme, but has been addressed on an iterative basis as the programme has progressed and practice has been developed.
