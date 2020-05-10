@@ -1,5 +1,5 @@
 ---
-title: Glossary?
+title: Glossary
 weight: 1
 section: appendix/glossary
 level: "8.1"
