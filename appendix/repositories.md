@@ -9,4 +9,4 @@ resources:
       title: CHC GitHub Repository
 ---
 
-A number of CHC code repositories and other informatino (including this website) can be found on our GitHub repository.
+A number of CHC code repositories and other information (including this website) can be found on our GitHub repository.
