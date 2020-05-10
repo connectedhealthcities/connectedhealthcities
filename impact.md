@@ -2,9 +2,6 @@
 title: Impact
 section: impact
 layout: section-home
-resources: 
-    - url: https://www.chc-impact-report.co.uk/executive-summary
-      title: CHC Impact Report - Online version
 ---
 The Connected Health Cities (CHC) pilot programme was devised and delivered by the Northern Health Science Alliance (NHSA).
 
