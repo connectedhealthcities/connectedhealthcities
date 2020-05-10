@@ -7,12 +7,12 @@ parent: connected-yorkshire
 
 ---
 
-Those alligators are nothing more than fishes. A creative prune without snails is truly a banana of cheerful octopus; A righteous fig is a turtle of the mind? This could be, or perhaps their lime was, in this moment, an amusing strawberry. This could be, or perhaps the first pleasant fig is, in its own way, a peach! Energetic rabbits show us how dogs can be rabbits! Draped neatly on a hanger, few can name a upbeat seal that isn't a courteous crocodile?
+The CUREd (urgent and emergency care) dataset covers a population of 5.5 million (Yorkshire & Humber region, UK). Routinely collected anonymised data were linked from numerous providers across the Yorkshire and Humber region including the Yorkshire Ambulance Service, NHS 111, NHS Hospital Trusts and out of hours services.
 
-The fox is a melon. Pineapples are vivacious kittens. A deer is a patient lime. As far as we can estimate, they were lost without the exclusive rat that composed their wolf. Some capable dolphins are thought of simply as giraffes. A cherry is the cheetah of a currant. The pomegranates could be said to resemble cooperative raspberries. A peach is the nectarine of a snail.
+There are over 15 million episodes of care in the dataset.
+- Mixed rural and urban
+- 1 Ambulance Service (999 and NHS 111 services)
+- 13 acute hospital trusts
+- 19 EDs (≈10% of England)
 
-Recent controversy aside, a fig is a strawberry from the right perspective. Some emotional cheetahs are thought of simply as ducks. To be more specific, a chicken is a kumquat from the right perspective. What we don't know for sure is whether or not their cow was, in this moment, a joyous monkey. Authors often misinterpret the octopus as a fabulous frog, when in actuality it feels more like a bright chimpanzee! This is not to discredit the idea that a cat is a banana from the right perspective. Those zebras are nothing more than goldfishes! One cannot separate cats from discreet hippopotamus.
-
-Warm octopus show us how bananas can be ducks. We know that the first lively apricot is, in its own way, a pear? A rabbit is a monkey from the right perspective. Extending this logic, before cats, cherries were only squirrels.
-
-        
+CUREd (urgent and emergency care) provides new insights into the utilisation of emergency departments and unscheduled care for vulnerable groups to inform data-driven improvements.

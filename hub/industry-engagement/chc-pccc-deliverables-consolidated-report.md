@@ -9,7 +9,7 @@ resources:
       title: CHC PCCC Deliverables Consolidated Report
 ---
 
-Working towards one of Connected Health Citiesmain aims of stimulating economic growth across the North of England, CHC has been engaging with numerous companies. The CHC Hub launched a consortium for companies active in the health ICT sector, the Pre-Competitive Collaborative Consortium (PCCC), in November 2017. This consortium ran until March 2019, when it closed in its present form. A lighter-touch continuation strategy is being explored.
+Working towards one of Connected Health Cities main aims of stimulating economic growth across the North of England, CHC has been engaging with numerous companies. The CHC Hub launched a consortium for companies active in the health ICT sector, the Pre-Competitive Collaborative Consortium (PCCC), in November 2017. This consortium ran until March 2019, when it closed in its present form. A lighter-touch continuation strategy is being explored.
 
 The objective of the PCCC wasto tackle common(pan-industry and NHS-wide) problems in health technology research, innovation, procurement, delivery and sustainability, focusing on the north of England as the co-creation environmentfor possible solutions. The PCCC was a collaboration between industry, the health service and academia, serving as a trusted eco-system for the public-private sharing of insights into better opportunities for the deployment of eHealth, pHealth and mHealth products and services, and how to overcome the barriers to sustainable adoption, interoperabilityand scale-up.
 

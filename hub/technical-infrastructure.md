@@ -7,10 +7,29 @@ parent: hub
 
 ---
 
-The literature would have us believe that a sedate persimmon is not but a pineapple. Those eagles are nothing more than kumquats. It's very tricky, if not impossible, a productive squirrel is a bee of the mind.
+Building and applying a reference data architecture, CHC launched four Data Arks and six operational trustworthy research environments in 24 months across the North of England. 
 
-An efficient kumquat is a fig of the mind. Extending this logic, a pineapple is an agreeable deer. Having been a gymnast, some inventive plums are thought of simply as lions.
+A Data Ark is a structured system for key stakeholders owners, data managers, public health analysts, care service analysts, statisticians, informaticians, social scientists, health economists, health service researchers and communications experts. Combining the people with the CHC methods, technologies, data and analysis, a Data Ark provides the underlying infrastructure on which Trustworthy Research Environments can be built.
 
-The literature would have us believe that a plucky panda is not but a plum. The quick-witted eagle comes from a nice pineapple. The convivial dolphin reveals itself as a jolly lemon to those who look. What we don't know for sure is whether or not before bananas, pandas were only strawberries.
+The concept of a Trustworthy Research Environment (TRE) is central to the work of Connected Health Cities. A TRE is a secure platform to analyse data which meets the needs of the data owners, citizens, and researchers. A TRE must be also be able to meet common data standards, information governance and legal requirements for the storage and use of health data. The development of the individual TREs within the CHC regions enabled local adaptation to governance, data, and research requirements while meeting these core design principles.
 
-        
+CHC launched six operational TREs across the North of England, including 100% coverage across the NENC region, within twenty four months.
+- Born in Bradford TRE
+- Sheffield 111 TRE
+- Leeds Institute for Data Analytics (LIDA) TRE
+- University of Manchester TRE
+- AIMES/NWC TRE
+- AIMES/NENC TRE 
+
+**Establishing the TREs**
+A Technical Working Group was established February 2017. This Group worked with the four regions to develop a common design for the essential features, or reference architecture, as a baseline for future implementation of local TREs.
+
+The key features of a TRE were identified as being:
+- A Data Safe Haven: A service to receive and store anonymous, patient-level data securely
+- A Data Catalogue: A description of the datasets and projects within the TRE
+- Security and Governance: Appropriate access controls, including encryption and limiting physical access to the network, with strong governance processes certified to ISO27001.
+- A Virtual Desktop Infrastructure for researchers: The software and tools to allow the researchers access to datasets to undertake the analysis in a secure environment
+- Publication: The TRE service should also be able to securely publish applications and output from the researchers
+
+Each of the TREs has been used to store a range of datasets that are available to local researchers. These include national datasets such as Secondary Uses Service hospital data, but also develop local datasets, such as the innovative linked health and social care data
+for the SILVER project (CHC NENC), developed in partnership with the local community of service users as well as medical and care professionals. 

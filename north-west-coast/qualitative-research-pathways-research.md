@@ -1,5 +1,5 @@
 ---
-title: Qualitative Research Pathways Research
+title: Qualitative Research Pathways 
 weight: 10
 section: north-west-coast/qualitative-research-pathways-research
 level: "4.10"
