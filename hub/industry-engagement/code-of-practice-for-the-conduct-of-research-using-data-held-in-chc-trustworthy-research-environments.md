@@ -11,4 +11,4 @@ resources:
   Trustworthy Research Environments
 ---
 
-This proposed Code of Practice defines the acceptability criteria and governance rules for the conduct of research using data held within Connected Health Cities TrustworthyResearch Environments, which mightbe undertaken by public or privateresearchorganisations. It is being more widely shared to encourage review and feedback from other health data research communities, with the eventual aim of encouraging UK and European convergence on a common code of practice and rules for reusing health data for research.
+This proposed Code of Practice defines the acceptability criteria and governance rules for the conduct of research using data held within Connected Health Cities Trustworthy Research Environments, which mightbe undertaken by public or privateresearchorganisations. It is being more widely shared to encourage review and feedback from other health data research communities, with the eventual aim of encouraging UK and European convergence on a common code of practice and rules for reusing health data for research.
