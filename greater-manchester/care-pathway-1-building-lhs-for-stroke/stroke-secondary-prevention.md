@@ -4,6 +4,7 @@ weight: 5
 section: greater-manchester/care-pathway-1-building-lhs-for-stroke/stroke-secondary-prevention
 level: 3.3.5
 parent: greater-manchester/care-pathway-1-building-lhs-for-stroke
+path: Secondary Stroke Prevention Report Final Report. PDF
 
 ---
 
