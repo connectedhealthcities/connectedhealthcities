@@ -4,7 +4,9 @@ weight: 2
 section: connected-yorkshire/carepathway-improving-urgency-and-emergency-pathways-for-patients/what-does-ideal-urgent-and-emergency-care-system-look-like
 level: 6.4.2
 parent: connected-yorkshire/carepathway-improving-urgency-and-emergency-pathways-for-patients
-
+resources: 
+    - url: https://emj.bmj.com/content/37/4/200
+      title: What does ideal urgent and emergency care system look like?
 ---
 
 **Abstract**

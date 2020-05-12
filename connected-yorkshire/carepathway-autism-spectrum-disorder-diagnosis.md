@@ -4,7 +4,9 @@ weight: 8
 section: connected-yorkshire/carepathway-autism-spectrum-disorder-diagnosis
 level: "6.8"
 parent: connected-yorkshire
-
+resources: 
+    - url: https://bmjpaedsopen.bmj.com/content/3/1/e000483
+      title: Carepathway Autism Spectrum Disorder Diagnosis
 ---
 
 The diagnosis for children with Autism Spectrum Disorder (ASD) process is lengthy and parents and children have to wait

@@ -4,7 +4,9 @@ weight: 1
 section: connected-yorkshire/carepathway-improving-urgency-and-emergency-pathways-for-patients/improving-urgent-and-unscheduled-care
 level: 6.4.1
 parent: connected-yorkshire/carepathway-improving-urgency-and-emergency-pathways-for-patients
-
+resources: 
+    - path: assets/connected-yorkshire/Section 6.4.1_Improving Urgent and unscheduled care.pdf
+      title: Improving Urgent and unscheduled care
 ---
 
 Unscheduled Care (UC) services provide substantial health benefits, but increasing demand is leading to unsustainable pressure on these services and the need for increased funding or new models of care. In the English National Health Service (NHS) in 2012-13 there were 18.3 million attendances at major Emergency Departments (ED), single specialty EDs, walkin centres and minor injury units, at a cost of £2.1 billion.  There were 5.3 million emergency hospital admissions, at a cost of £12.5 billion.  And there were 7 million ambulance service journeys and approximately 24 million calls to NHS urgent and emergency care telephone services.  Failure of the urgent and emergency care system to manage increasing demand causes substantial public concern and political impact. Delays in ambulance response or Emergency Department (ED) assessment leads to worse patient outcomes. ED crowding is internationally recognised and is shown to be associated with avoidable mortality.  

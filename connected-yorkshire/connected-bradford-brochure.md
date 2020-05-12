@@ -4,7 +4,9 @@ weight: 3
 section: connected-yorkshire/connected-bradford-brochure
 level: "6.3"
 parent: connected-yorkshire
-
+resources: 
+    - path: /assets/connected-yorkshire/Section 6.3_CONNECTED_BRADFORD_JUNE2019.pdf
+      title: Connected Bradford Brochure
 ---
 
 **Integrating datasets across the region**

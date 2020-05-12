@@ -4,7 +4,9 @@ weight: 6
 section: connected-yorkshire/carepathway-promoting-healthier-child-growth
 level: "6.6"
 parent: connected-yorkshire
-
+resources: 
+    - path: /assets/connected-yorkshire/Section 6.6.1_Promoting Healthier Child Growth_finalreport.pdf
+      title: Promoting Healthier Child Growth
 ---
 
 The epidemic of childhood obesity in the UK is associated with a major burden of physical and psychological morbidity and early mortality. This epidemic is one of the most daunting public health threats facing the UK and presents a potential health time bomb that threatens to reverse gains made in longevity made over the last 100 years. Two recent reports (Wanless and Foresight) have provided dire warnings that without significant improvements in efforts to tackle childhood obesity, the future of the NHS is in jeopardy. The Foresight report concluded that preventing obesity requires major change in the environment, behaviour; in organisations, communities, families and individuals.  

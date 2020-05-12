@@ -4,7 +4,9 @@ weight: 1
 section: connected-yorkshire/frailty/the-impact-of-frailty-on-healthcare-resource-use
 level: 6.7.1
 parent: connected-yorkshire/frailty
-
+resources: 
+    - url: https://academic.oup.com/ageing/article/48/5/665/5531421
+      title: The impact of frailty on healthcare resource use
 ---
 
 **Abstract**

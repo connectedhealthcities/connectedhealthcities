@@ -4,7 +4,9 @@ weight: 2
 section: connected-yorkshire/carepathway-urgent-care-for-childhood-asthma/netamis-ace-reference-document
 level: 6.5.2
 parent: connected-yorkshire/carepathway-urgent-care-for-childhood-asthma
-
+resources: 
+    - path: /assets/connected-yorkshire/Section 6.5.2_NETIMIS_ACE reference document.pdf
+      title: NETAMIS ACE Reference Document
 ---
 
 NETIMIS is a web based software simulation tool which uses intelligent simulation to visually explore the way in which organisations deliver care pathways using time, patient demographics, probabilities and costs. NETIMIS allows organisations to adopt and extract maximum calculate from pathway modelling with the NETIMIS tool and to fully realise its benefits.

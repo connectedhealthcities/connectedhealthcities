@@ -5,7 +5,9 @@ weight: 2
 section: connected-yorkshire/frailty/safer-prescribing-for-frailty-a-story-of-polypharmacy-reduction-in-general-practice-health-foundation-report
 level: 6.7.2
 parent: connected-yorkshire/frailty
-
+resources: 
+    - path: /assets/connected-yorkshire/Section 6.7.2_Safer Prescribing for Fraility.pdf
+      title: "Safer Prescribing for Frailty A Story of Polypharmacy Reduction in General Practice : Health foundation report"
 ---
 
 People get a great deal of benefit from medicines. Medicines extend healthy lives and can maximise the opportunities for improved wellbeing. The use of medicines in the NHS is driven by one of the most robust regulatory systems in the world and the evidence base upon which decisions are made is beyond comparison.  

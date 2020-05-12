@@ -4,7 +4,9 @@ weight: 1
 section: connected-yorkshire/carepathway-urgent-care-for-childhood-asthma/ambulatory-care-experience-ace-evaluation-report
 level: 6.5.1
 parent: connected-yorkshire/carepathway-urgent-care-for-childhood-asthma
-
+resources: 
+    - path: /assets/connected-yorkshire/Section 6.5.1_AMBULATORY CARE EXPERIENCE evaluation report.pdf
+      title: Ambulatory Care Experience (ACE) evaluation report
 ---
 
 **Background**

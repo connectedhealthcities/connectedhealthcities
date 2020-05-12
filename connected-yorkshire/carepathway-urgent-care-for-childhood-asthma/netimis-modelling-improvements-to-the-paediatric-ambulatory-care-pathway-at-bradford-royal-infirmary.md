@@ -5,7 +5,9 @@ weight: 3
 section: connected-yorkshire/carepathway-urgent-care-for-childhood-asthma/netimis-modelling-improvements-to-the-paediatric-ambulatory-care-pathway-at-bradford-royal-infirmary
 level: 6.5.3
 parent: connected-yorkshire/carepathway-urgent-care-for-childhood-asthma
-
+resources: 
+    - path: assets/connected-yorkshire/Section 6.5.3_NETIMIS Modelling Improvements to the Paediatric Ambulatory Care Pathway at Bradford Royal Infirmary.pdf
+      title: NETIMIS Modelling Improvements to the Paediatric Ambulatory Care Pathway at Bradford Royal Infirmary
 ---
 
 NETIMIS is a web based software simulation tool which uses intelligent simulation to visually explore the way in which organisations deliver care pathways using time, patient demographics, probabilities and costs. NETIMIS allows organisations to adopt and extract maximum calculate from pathway modelling with the NETIMIS tool and to fully realise its benefits.
