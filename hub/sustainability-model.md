@@ -1,12 +1,12 @@
 ---
-title: Sustainability/Model
+title: Sustainability Model
 weight: 9
 section: hub/sustainability-model
 level: "2.9"
 parent: hub
 resources: 
     - path: /assets/hub/Section 2.9_Sustainability Model.pdf
-      title: Designing a Solution to Manage Electronic Consent for Children
+      title: Developing a leaner approach to delivering learning health systems at scale 
 ---
 
 The Connected Health Cities (CHC) programme is a Northern Health Science Alliance (NHSA) led programme delivered by a consortium of academia, NHS organisations and industry partners across four regions in the North of England. Each of the four regions has been tasked with establishing a Learning Healthcare System (LHS), using patient data to create and test innovative improvements for a variety of clinical pathways. The programme has demonstrated  that a ground-breaking ‘learning health system’ with informed consensual use of citizen’s health data at its heart can fulfil the IHI Triple Aim  of improving the experience of care, improving the health of populations, and reducing per capita costs of health care. 
