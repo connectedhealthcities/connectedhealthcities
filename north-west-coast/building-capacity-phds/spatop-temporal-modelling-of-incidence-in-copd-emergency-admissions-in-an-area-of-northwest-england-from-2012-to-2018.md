@@ -1,5 +1,5 @@
 ---
-title: Spatop-temporal modelling of incidence in COPD emergency admissions in an
+title: Spatio-temporal modelling of incidence in COPD emergency admissions in an
   area of Northwest England from 2012 to 2018
 weight: 4
 section: north-west-coast/building-capacity-phds/spatop-temporal-modelling-of-incidence-in-copd-emergency-admissions-in-an-area-of-northwest-england-from-2012-to-2018
