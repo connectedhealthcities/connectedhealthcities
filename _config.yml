@@ -56,7 +56,7 @@ footer:
     value: privacy.md
     weight: 1
   - type: text
-    value: '© Copyright 2020.  Registered in the UK. Company number 25486635872'
+    value: '© Copyright 2020.'
     weight: 2
 
 logo: 'assets/logo.svg'
