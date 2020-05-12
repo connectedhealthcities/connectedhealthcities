@@ -1,5 +1,5 @@
 ---
-title: Sustainability Model
+title: Sustainability/Model
 weight: 9
 section: hub/sustainability-model
 level: "2.9"

@@ -4,7 +4,9 @@ weight: 6
 section: greater-manchester/communications
 level: "3.6"
 parent: greater-manchester
-
+resources: 
+    - path: /assets/greater-manchester/Section 3.6.1_GM Communications Final report.pdf
+      title: Communications Final Report
 ---
 
 The overarching aim of the GM CHC communications working group was to disseminate and create visibility	for the outputs from	our clinical care pathways and pathfinder	projects, develop collaborations with key	influencer and stakeholders, and build trust with the citizens	we serve.	
@@ -19,5 +21,4 @@ Our communications were targeted towards a wide	range of audiences including:
 - Industry; SMEs and	multinational	corporations	
 - Media (local & national)	
 - Social services	
-- General public 
-        
+- General public

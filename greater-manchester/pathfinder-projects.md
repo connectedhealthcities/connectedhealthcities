@@ -4,7 +4,9 @@ weight: 5
 section: greater-manchester/pathfinder-projects
 level: "3.5"
 parent: greater-manchester
-
+resources: 
+    - path: /assets/greater-manchester/Section 3.5.3_Assessing the comparative safety of Opiod medications for non cancer pain.pdf
+      title: Assessing the comparative safety of Opiod medications for non cancer pain
 ---
 
 Pathfinder Projects were early stage idea testing projects aimed at informing the next stages of development.  
