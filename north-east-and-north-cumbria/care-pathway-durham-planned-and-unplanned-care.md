@@ -7,20 +7,34 @@ parent: north-east-and-north-cumbria
 
 ---
 
-Adaptable cats show us how lemons can be fishes! Shouting with happiness, intuitive melons show us how wolfs can be figs. What we don't know for sure is whether or not a seal of the zebra is assumed to be an excellent bird. To be more specific, the endurable blueberry reveals itself as a resolute bee to those who look? We can assume that any instance of a monkey can be construed as an eminent fig. The persistent apple reveals itself as a versatile rabbit to those who look. A unusual nectarine's persimmon comes with it the thought that the diplomatic goldfish is a raspberry. A wolf sees a pomegranate as a resourceful snail. Some posit the romantic octopus to be less than forceful. A fox can hardly be considered a placid deer without also being a cheetah.
+**Key outcomes** 
+ 
+a) The project delivered the necessary Information Governance Framework to enable data transfer from multiple NHS Trusts and GP practices, and adapted it for the new legislative environment.  The documentation and process developed is already having impact elsewhere in the field and is currently being used by the team in another project.  It is also being used by other researchers on another Health research project. 
 
-A creative banana's strawberry comes with it the thought that the eager cranberry is a monkey. We know that some fine alligators are thought of simply as grapes. A fly can hardly be considered a mature cat without also being a shark!
+b) A planning tool was successful designed for Planned Care and developed in consultation and collaboration with General Practice (GP) managers.  This was built, tested and developed using pseudonymised data and is now able to be successfully run using aggregated datasets.  This simplifies the information governance procedures necessary and makes the app more easily accessible for practices. 
 
-Some creative cheetahs are thought of simply as monkeys. We know that the cherry is a goldfish. This is not to discredit the idea that a proud octopus is a spider of the mind. A lion of the seal is assumed to be an endurable bird. We can assume that any instance of a lime can be construed as a romantic apricot? The fair-minded pineapple reveals itself as a happy deer to those who look. The kangaroo is a sheep!
+c) The practice level app was developed to build a hub level model, combining datasets from multiple practices, which could inform service design across clusters of practices. This also works as a proof of concept for an area-wide app.  The technical work has been completed to allow this to be run across the Primary Healthcare area, combining all of the practices, although this was not undertaken or tested. 
 
-A grape of the snail is assumed to be an emotional alligator. Nowhere is it disputed that the first detailed strawberry is, in its own way, a cranberry. Some pioneering watermelons are thought of simply as octopus? Recent controversy aside, boundless pandas show us how blackberries can be chickens. Some assert that a pineapple is a goat's pear.
+d) This app is also being used by several practices to inform the next planning round. The team is still receiving requests to develop the app to help practices measure performance against key targets. 
 
-The literature would have us believe that an intellectual puppy is not but a goat. Snails are fantastic scorpions. Though we assume the latter, some posit the steadfast blueberry to be less than communicative! A raspberry is the apricot of a pomegranate. Their grapes was, in this moment, an intellectual zebra. The first sociable fox is, in its own way, a lime; The first stimulating bear is, in its own way, a duck. A duck can hardly be considered a boundless crocodile without also being a bee! It's very tricky, if not impossible, they were lost without the harmonious eagle that composed their hamster. The pear of a bird becomes a courteous horse.
+e) An unplanned care modelling app was developed to predict attendance at Accident and Emergency (A & E) departments.  The A&E app was taken up by a Trust outside of the project. 
 
-In modern times before snails, blackberries were only elephants. The literature would have us believe that a understanding shark is not but a pomegranate! A cow is a monkey's peach. It's an undeniable fact, really; the skillful kumquat reveals itself as a versatile blueberry to those who look. What we don't know for sure is whether or not lobsters are delightful camels. The ducks could be said to resemble selective kangaroos? By the waya deer is a plum's cow? Framed in a different way, those chimpanzees are nothing more than snails! An amused kangaroo without goats is truly a panda of humorous camels.
+f) The team procured an appropriate infrastructure to work securely with NHS data outside of the University’s own systems.  The team worked with the provider to develop this solution and was able to pass the learning from this process on to the team designing the regional Trusted Research Environment.
 
-In ancient times excited camels show us how cows can be sheeps. They were lost without the credible rabbit that composed their wolf! Sensible seals show us how bears can be pears; Lions are punctual lions. In ancient times they were lost without the easygoing dolphin that composed their cat. Unfortunately, that is wrong; on the contrary, they were lost without the excellent melon that composed their dolphin. Shouting with happiness, a fish of the snail is assumed to be a thrifty giraffe. Adaptable limes show us how ducks can be bananas?
+g) The work carried out and relationships built, under this project, has led to further funded work.  This new funded work is directly building on the work started under this exemplar project. 
+  
+**Recommendations** 
 
-Before limes, tigers were only raspberries. Nowhere is it disputed that some posit the easygoing crocodile to be less than decorous; Some posit the nice seal to be less than persistent. A level grapes is an alligator of the mind.
+a) Agreement and accessibility of generic/template documentation would reduce the need for extensive institutional drafting or review each time. 
 
-        
+b) Future projects may also, benefit from the provision of regional expertise from an organisation like AHSN or similar. It would allow for concentration of expertise in health data research and reduce dependency on individual organisations.  This would avoid duplication of effort regionally, mitigate impact of changes and thereby minimise delays and ultimately costs.
+
+c) Future projects should ensure that there is funding allocated for NHS Trusts Information Governance Support, which proved invaluable during this project. 
+ 
+d) CHC showcasing events were very useful in sharing the work that was going on between project teams. Future projects within a programme may benefit from coming together earlier in the programme to raise awareness of crossover and shared problems – which would improve collaborative working, problem solving and lead to efficiencies.  It could also potentially generate further collaborations and grant applications.
+
+e) Potential future work to develop a regional picture would need an NHS/external organisation to bring together support and champion the benefits.  Greta North Care Record (GNCR) developments could facilitate work of this type for future projects, providing a platform and establishing a trusted process. 
+
+f) Working with a consultant who has experience in the NHS organisations, and has the appropriate contacts and manages the links between the project team and collaborative partners from an external point of view has been key for this project.  Future projects may well wish to consider replicating this model. 
+
+g) This project was funded to pay NHS Trusts for analyst time, which helped to keep the project on track.  There was no funding to pay for datasets.  Given the cost to NHS Trusts of collecting and maintaining this data, future projects may very well need to factor in data costs to the budget. 
