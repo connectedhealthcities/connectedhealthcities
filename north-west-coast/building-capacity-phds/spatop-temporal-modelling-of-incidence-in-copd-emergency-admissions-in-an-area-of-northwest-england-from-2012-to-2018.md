@@ -5,7 +5,9 @@ weight: 4
 section: north-west-coast/building-capacity-phds/spatop-temporal-modelling-of-incidence-in-copd-emergency-admissions-in-an-area-of-northwest-england-from-2012-to-2018
 level: 4.8.4
 parent: north-west-coast/building-capacity-phds
-
+resources:
+  - file: /assets/north-west-coast/Section 4.8.4_spatio temporal modelling of incidence in COPD emergency admissions.pdf
+    title: Spatio-temporal modelling of incidence in COPD emergency admissions in an area of Northwest England from 2012 to 2018
 ---
 
 Chronic Obstructive Pulmonary Disease (COPD) is one of the leading causes of mortality worldwide with an estimated three million deaths in 2015, corresponding to 5% of all deaths globally.

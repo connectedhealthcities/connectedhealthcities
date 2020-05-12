@@ -5,7 +5,9 @@ weight: 1
 section: north-west-coast/building-capacity-phds/phd-how-can-data-supported-decision-making-tools-be-used-to-improve-the-pathway-to-care-for-people-with-copd
 level: 4.8.1
 parent: north-west-coast/building-capacity-phds
-
+resources:
+  - file: /assets/north-west-coast/Section 4.8.1_How can data supported decision making tools be used to improve the pathway to care for people with COPD.pdf
+    title: How can data supported decision making tools be used to improve the pathway to care for people with COPD
 ---
 
 A collage of information is required for effective clinical decision-making around a patient’s care. This includes reviewing paper notes, digital documentation, and liaising with other clinicians involved in the patient’s care.  

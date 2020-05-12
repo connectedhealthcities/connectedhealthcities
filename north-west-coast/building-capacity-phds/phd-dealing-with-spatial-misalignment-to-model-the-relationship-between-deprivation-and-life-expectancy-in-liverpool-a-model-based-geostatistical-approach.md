@@ -6,7 +6,9 @@ weight: 3
 section: north-west-coast/building-capacity-phds/phd-dealing-with-spatial-misalignment-to-model-the-relationship-between-deprivation-and-life-expectancy-in-liverpool-a-model-based-geostatistical-approach
 level: 4.8.3
 parent: north-west-coast/building-capacity-phds
-
+resources:
+  - file: /assets/north-west-coast/Section 4.8.3_Dealing with spatial misalignment to model the relationship between deprivation and life expectancy.pdf
+    title: Dealing with spatial misalignment to model the relationship between deprivation and life expectancy in Liverpool
 ---
 
 Life expectancy at birth (LEB), one of the main indicators of human longevity, has often been used to characterise the health status of a population. 
