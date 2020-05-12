@@ -4,15 +4,30 @@ weight: 9
 section: hub/sustainability-model
 level: "2.9"
 parent: hub
-
+resources: 
+    - path: /assets/hub/Section 2.9_Sustainability Model.pdf
+      title: Designing a Solution to Manage Electronic Consent for Children
 ---
 
-We know that a seal is a banana's orange! Waking to the buzz of the alarm clock, some posit the steadfast nectarine to be less than shrewd. A faithful seal's apricot comes with it the thought that the brave panda is an alligator? Framed in a different way, they were lost without the seemly hippopotamus that composed their spider. A frog of the orange is assumed to be an intellectual cheetah. A relieved strawberry without cranberries is truly a tiger of exclusive zebras. Some posit the humorous fig to be less than adventurous. A camel sees a fish as a delightful eagle. Nowhere is it disputed that the lemon of a squirrel becomes a capable duck.
+The Connected Health Cities (CHC) programme is a Northern Health Science Alliance (NHSA) led programme delivered by a consortium of academia, NHS organisations and industry partners across four regions in the North of England. Each of the four regions has been tasked with establishing a Learning Healthcare System (LHS), using patient data to create and test innovative improvements for a variety of clinical pathways. The programme has demonstrated  that a ground-breaking ‘learning health system’ with informed consensual use of citizen’s health data at its heart can fulfil the IHI Triple Aim  of improving the experience of care, improving the health of populations, and reducing per capita costs of health care. 
 
-A cow can hardly be considered an imaginative orange without also being an apple. A persimmon is an endurable blueberry. A happy camel's chimpanzee comes with it the thought that the resourceful watermelon is an owl! Their blackberry was, in this moment, a diplomatic seal. A grapes can hardly be considered a bright fig without also being a tiger. A painstaking scorpion without eagles is truly a persimmon of conscientious pandas. The shy puppy reveals itself as a delightful sheep to those who look. A determined grapefruit is a kitten of the mind. The eminent deer comes from a humorous panda? Authors often misinterpret the alligator as a quiet snake, when in actuality it feels more like a willing blackberry.
+This paper highlights key lessons learned from this ambitious, complex, real-world Northern Health Science Alliance (NHSA) programme which spanned the whole of northern England and its 15m population. It describes a series of approaches and practical thinking tools that can be used to overcome common stumbling blocks observed when:
 
-Nowhere is it disputed that the literature would have us believe that a unassuming grapefruit is not but an ant. The blackberries could be said to resemble bright giraffes? Framed in a different way, flies are boundless ducks! Washing and polishing the car,an owl is a grapefruit from the right perspective.
+*	testing the learning health care system methodology for data driven transformation of health and care in the real world; 
+*	developing a social licence for the use of for data driven transformation; 
+*	developing new models of partnership with service providers, academia, industry and citizens.
 
-Few can name a calm snail that isn't a fine grapefruit. A practical lime is an octopus of the mind. Dogs are decorous sheeps. Authors often misinterpret the ant as a friendly grapefruit, when in actuality it feels more like a jolly lemon;
+A key lesson learned is that data driven transformation of health services does not occur simply by making health data available for analytical purposes: it is essential that the people and organisations providing those services and collecting the data are integral to the analytical work. This document proposes a series of approaches and practical thinking tools that, when combined with a truly multi-disciplinary central co-ordinating hub and regional centres for innovation around health and social care, can:
 
-        
+1.	deliver large-scale transformation where data is the currency for inclusive economic growth and service improvement;
+2.	expand the diameter of trust;
+3.	foster the commitment and collaboration of a critical mass of health and social care stakeholders across organisational boundaries.
+
+The DataSavesLives Lean Stack of tools forms part of the legacy of CHC as a component of its pipeline for scaling innovation and improvement . It opens the doors to the Civic Data Co-operatives that can build on the CHC programme. These have been calibrated by regular and repeated engagement with academic institutions, health organisations, government bodies and industry across the US, Canada, Australia, Singapore, China, Japan and Europe. Towards the end of the CHC programme, elements of these tools were successfully and effectively prototyped during a half-day workshop for the leaders of the Northern Irish health and social care ecosystem. The DataSavesLives Lean Stack of tools enables front-line innovators to improve care, reduce waste and unlock learning while expanding the diameter of trust. 
+Overall, the CHC programme has revealed the potential of a systematic approach to scaling innovation and improvement to:
+
+*	Enable front-line innovators to improve care, reduce waste and unlock learning;
+*	Shape learning health systems to deliver policy objectives and influence policy;
+*	Codify the knowledge and apply the know how to scale what works in different contexts;
+*	Curate an online library and community for open sharing of applied resources and best practice;
+*	Focus on collaborative approaches with existing projects as well as innovative new initiatives to achieve short-term gains with long-term impact in UK.
