@@ -4,7 +4,9 @@ weight: 10
 section: north-west-coast/qualitative-research-pathways-research
 level: "4.10"
 parent: north-west-coast
-
+resources: 
+    - path: /assets/north-west-coast/Section 4.10.1_Qualitative Pathways Research Report.pdf
+      title: Qualitative Research Pathways
 ---
 
 **Background**

@@ -4,11 +4,12 @@ weight: 11
 section: north-west-coast/ppi
 level: "4.11"
 parent: north-west-coast
-
+resources: 
+    - path: /assets/north-west-coast/Section 4.11.1_Patient and Public Involvement_Final report.pdf
+      title: Public and Patient Involvement Final Report
 ---
 
-
- The CHC programme linked health data to develop a learning health system to improve care for people in the North of England. 
+The CHC programme linked health data to develop a learning health system to improve care for people in the North of England. 
  
 To ensure the residents of the North West Coast (NWC) that we were using data safely and securely, the NWC CHC developed a robust programme of patient and public involvement in order to create a civic partnership to engage, educate and establish the trust of people whose data we use.  
  

@@ -4,7 +4,9 @@ weight: 2
 section: north-west-coast/education-and-workforce-development/coaching-for-digital-health
 level: 4.7.2
 parent: north-west-coast/education-and-workforce-development
-
+resources: 
+    - path: /assets/north-west-coast/Section 4.7.2_Coaching for Digital Health Final Report.pdf
+      title: Coaching for digital health
 ---
 
 One of the main aims of The Connected Health City programme is to equip the healthcare workforce with the digital, analytical, contextual and management/leadership skills to improve the conversation between individual professionals and groups. 

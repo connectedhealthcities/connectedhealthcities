@@ -5,7 +5,9 @@ weight: 4
 section: north-west-coast/education-and-workforce-development/connected-health-ecosystem-event-innovating-to-meet-nhs-and-social-care-workforce-challenges
 level: 4.7.4
 parent: north-west-coast/education-and-workforce-development
-
+resources: 
+    - path: /assets/north-west-coast/Section 4.7.4_Workforce Eco Event Final Report.pdf
+      title: Workforce Ecosystem Event Final Report
 ---
 The NHS and social care system its facing its biggest ever challenge - **workforce**.  
  

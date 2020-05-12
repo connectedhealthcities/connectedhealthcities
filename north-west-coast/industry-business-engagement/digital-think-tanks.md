@@ -4,7 +4,9 @@ weight: 2
 section: north-west-coast/industry-business-engagement/digital-think-tanks
 level: 4.9.2
 parent: north-west-coast/industry-business-engagement
-
+resources: 
+    - path: /assets/north-west-coast/Section 4.9.2_Digital Think Tanks Final Report.pdf
+      title: Digital Think Tanks
 ---
 
 The benefits of sharing patient data within data management systems are beginning to be well understood. However, it is also recognised that there are many barriers, particularly related to human factors, workforce issues and service contextual obstacles.  

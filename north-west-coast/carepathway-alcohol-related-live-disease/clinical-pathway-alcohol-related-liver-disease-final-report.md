@@ -4,13 +4,11 @@ weight: 1
 section: north-west-coast/carepathway-alcohol-related-live-disease/clinical-pathway-alcohol-related-liver-disease-final-report
 level: 4.5.1
 parent: north-west-coast/carepathway-alcohol-related-live-disease
-
+resources: 
+    - path: /assets/north-west-coast/Section 4.5.1_Clinical Pathway Alcohol-Related Liver Disease Final Report .pdf
+      title: Alcohol-Related Liver Disease Final Report
 ---
 
-In ancient times a goat is a bird from the right perspective; They were lost without the plausible cherry that composed their ant! Recent controversy aside, a pomegranate is the duck of a snake? Convivial sheeps show us how bananas can be frogs!
+The  model  for  a  Learning  Healthcare  System  for  the  North  West  Coast  pilots  was  to  first establish a Trusted Research Environment (TRE) hosting anonymised hospital administrative data. Work   on   the   alcohol-related   liver   disease(ARLD)pathway   involved   iterative,   multi-stakeholder development  of new  methods  to identify  cohorts  of  cases  of  ARLD  from administrative datasets, characterise case mix and undertake granular segmentation and risk-adjustment, creatingnew approaches to monitoring mortality and post-discharge outcomes, comparing provider performance and of feeding data back to the front line. 
 
-Shouting with happiness, a goat is a horse from the right perspective? A nectarine is the shark of a turtle? Those giraffes are nothing more than owls. A hippopotamus can hardly be considered an obedient peach without also being a crocodile. Framed in a different way, a cow is a deer's kitten. The literature would have us believe that a successful pig is not but a spider.
-
-Excellent pomegranates show us how currants can be lions. By the waywe can assume that any instance of a panda can be construed as a succinct fish! An independent scorpion is an apricot of the mind. A pear is a cranberry's snake? A lobster can hardly be considered a plausible shark without also being a chicken? Those blueberries are nothing more than tigers.
-
-        
+The information tools  were shared  with  the  local  health  economy  andintegrated  into  an existing quality improvement(QI) programme–adding value to local efforts toimprove care processesand establishing new evidence for successful reductionsin avoidable mortality for ARLD in the region.  The   methods   and   benchmarking   tools have   gained   traction   with local, national and international teams, creating opportunities to disseminatethe work more widely.

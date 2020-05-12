@@ -4,7 +4,9 @@ weight: 3
 section: north-west-coast/education-and-workforce-development/business-informatics-skills-framework
 level: 4.7.3
 parent: north-west-coast/education-and-workforce-development
-
+resources: 
+    - path: /assets/north-west-coast/Section 4.7.3_Business Informatics Skills Framework Final Report.pdf
+      title: Business Informatics Skills Framework Final Report
 ---
 
 The Business Informatics Skills Framework (BISF) Prototype intended to provide an initial tool to create a professional framework to improve the capability of the analytical workforce. The BISF will enable individuals to produce a portfolio of evidence endorsed by managers outlining their competency against an identified skill set for their role assisting them in identifying the relevant skills required to further progress their career within that area.  

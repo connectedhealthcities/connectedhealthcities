@@ -4,6 +4,9 @@ weight: 1
 section: north-west-coast/education-and-workforce-development/evidence-champions-programme
 level: 4.7.1
 parent: north-west-coast/education-and-workforce-development
+resources: 
+    - path: /assets/north-west-coast/Section 4.7.1_ Workforce Development Evidence Champions Programme Report.pdf
+      title: Workforce Development Evidence Champions Programme Report
 
 ---
 

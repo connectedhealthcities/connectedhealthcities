@@ -4,7 +4,9 @@ weight: 1
 section: north-west-coast/education-and-workforce-development/business-informatics-survey
 level: 4.7.5
 parent: north-west-coast/education-and-workforce-development
-
+resources: 
+    - path: /assets/north-west-coast/Section 4.7.5_Buisness Informatics Workshop Barriers and Enablers Innovation.pdf
+      title: Buisness Informatics Workshop Barriers and Enablers Innovation
 ---
 The Connected Health Cities (CHC) Information Dissemination survey was developed and circulated between February and April 2018 with a view to improving the CHC team’s understanding of how business intelligence reports, and general business intelligence outputs relating to health service activity, were typically disseminated within healthcare organisations across the NHS. 
  
@@ -20,5 +22,3 @@ The Survey was developed as a consequence of these observations and was focused 
 - Common challenges faced by information teams in disseminating intelligence across their organisation  
 - Successes that have been driven by effective delivery of intelligence within, and across, organisations 
 - How best practice in any one area might be shared and adopted in another area
-
-        

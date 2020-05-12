@@ -4,7 +4,9 @@ weight: 4
 section: north-west-coast/carepathway-copd
 level: "4.4"
 parent: north-west-coast
-
+resources: 
+    - path: /assets/north-west-coast/Section 4.4.1_ Clinical Pathway COPD Final Report.pdf
+      title: COPD Final Report
 ---
 
 Chronic Obstructive Pulmonary Disease (COPD) is the second most common cause of an acute medical admission, and NICE guidelines suggest many of these could be prevented or managed without attending hospital.  
