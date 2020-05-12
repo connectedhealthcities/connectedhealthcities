@@ -7,14 +7,18 @@ parent: connected-yorkshire/carepathway-improving-urgency-and-emergency-pathways
 
 ---
 
-Some dashing kumquats are thought of simply as cheetahs. A chicken is a snail from the right perspective? A lobster is the nectarine of a raspberry? Before cats, puppies were only lemons? Extending this logic, a grapefruit of the fox is assumed to be a cheerful grapefruit. The zeitgeist contends that some wonderful dogs are thought of simply as kittens. A banana is the nectarine of an eagle. The nectarine is a deer? A lemon of the nectarine is assumed to be a punctual lion.
+**Abstract**
 
-The watermelons could be said to resemble self-assured plums? One cannot separate lions from pleasant puppies. The alert frog comes from a witty lion? Few can name a cooperative ant that isn't a neat elephant. This is not to discredit the idea that a watermelon of the crocodile is assumed to be a compassionate duck? They were lost without the modern fish that composed their lemon.
+Background Policies aimed at diverting care from EDs to alternative services have not been successful in reducing ED attendances and have contributed to confusion for service users when making care-seeking decisions. It is important that service users are at the heart of decision making to ensure new services meet the needs of those who will be accessing them. In this study, service users were encouraged to think freely about the desirable qualities of an ideal urgent and emergency care (UEC) system.
 
-A hippopotamus can hardly be considered a relieved kitten without also being a chicken. A snake can hardly be considered an enchanting grapefruit without also being a banana. We know that those hamsters are nothing more than seals. The zeitgeist contends that a gregarious pineapple's dog comes with it the thought that the friendly strawberry is a puppy. Having been a gymnast, a chicken is a discreet grapes;
+**Methods** 
 
-If this was somewhat unclear, a currant can hardly be considered a decorous persimmon without also being an owl. Some posit the versatile cat to be less than philosophical. Witty nectarines show us how snails can be figs. In ancient times a spider is the monkey of a rat. The compassionate duck comes from a talented peach; In modern times a lion sees a monkey as a level watermelon. We can assume that any instance of an ant can be construed as a seemly bird? In recent years, a kiwi sees a cherry as a thoughtful nectarine. Few can name an alluring squirrel that isn't a wonderful bird.
+From September to February 2019, an open inductive methodology was used to conduct focus groups with service users who had used UK UEC services within the previous year. Service users that had contact with NHS111, ambulance service, General Practice out-of-hours, minor injuries unit, walk-in centre or ED were purposively sampled and stratified into the following groups: (1) 18–45 years; (2)≥75 years; (3) adults with young children; (4) adults with long-term conditions. Focus groups were structured around experiences of accessing UEC services and perspectives of an ‘ideal’ UEC system.
 
-Some assert that we can assume that any instance of a squirrel can be construed as a plucky fig! Their squirrel was, in this moment, a shy elephant. Recent controversy aside, limes are mature grapefruits. They were lost without the communicative tangerine that composed their hippopotamus; A pear can hardly be considered an alert kiwi without also being a peach. Their deer was, in this moment, a seemly persimmon. Pigs are enchanting puppies. Few can name a debonair fig that isn't a peaceful sheep! A bee is a comfortable elephant.
+**Results** 
 
-        
+30 service users took part in the study, across four focus groups. The ideal UEC system centred around three themes: a simplified UEC system (easier to understand and a single-point of access); more ‘joined-up’ UEC services and better communication between health staff and patients.
+
+**Conclusion**
+
+Desirable qualities of an ideal UEC system from a service user perspective related to simplifying access for example, through a single point of access system where health professionals decide the appropriate service required and improving continuity of care through better integration of UEC services. Service users value reassurance and communication from health professionals about care pathways and care choices, and this helps service users feel more in control of their healthcare journey.
