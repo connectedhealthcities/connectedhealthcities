@@ -4,7 +4,9 @@ weight: 1
 section: north-east-and-north-cumbria/care-pathway-silver/carepathway-silver-final-report
 level: 5.5.1
 parent: north-east-and-north-cumbria/care-pathway-silver
-
+resources:
+  -path: /assets/north-east-north-cumbria/Section 5.5.1_ Carepathway SILVER Final report.pdf
+    title: Carepathway  SILVER  Final report
 ---
 
 **Introduction**

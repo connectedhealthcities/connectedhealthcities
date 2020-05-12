@@ -4,7 +4,9 @@ weight: 1
 section: north-east-and-north-cumbria/public-engagement-and-ethics/the-connected-patient-leadgate-project-report
 level: 5.9.1
 parent: north-east-and-north-cumbria/public-engagement-and-ethics
-
+resources: 
+    - path: /assets/north-east-north-cumbria/Section 5.9.1_The Connected Patient (Leadgate) Project Report.pdf
+      title: The Connected Patient  (Leadgate) project Report
 ---
 
 **Summary**

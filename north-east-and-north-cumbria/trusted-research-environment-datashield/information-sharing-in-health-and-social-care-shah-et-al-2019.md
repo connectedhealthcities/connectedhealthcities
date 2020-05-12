@@ -4,7 +4,9 @@ weight: 3
 section: north-east-and-north-cumbria/trusted-research-environment-datashield/information-sharing-in-health-and-social-care-shah-et-al-2019
 level: 5.2.3
 parent: north-east-and-north-cumbria/trusted-research-environment-datashield
-
+resources: 
+    - url: https://www.tandfonline.com/doi/abs/10.1080/09540962.2019.1583891
+      title: Information sharing in health and social care (Shah et al 2019)
 ---
 
 **ABSTRACT**

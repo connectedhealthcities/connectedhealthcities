@@ -4,7 +4,9 @@ weight: 6
 section: north-east-and-north-cumbria/care-pathway-end-of-life
 level: "5.6"
 parent: north-east-and-north-cumbria
-
+resources:
+  -path: /assets/north-east-north-cumbria/Section 5.6.1_Carepthway_End of Life_Shared Palliative Care Summary Report.pdf
+    title: End of Life Shared Palliative Care Summary Report
 ---
 
 The scale, scope and complexity of this SPCS Project has been very challenging, especially within the resources available.  It has been and continues to be delivered through the tenacity and high levels of energy, flexibility and commitment of a core and wider team of partners. 

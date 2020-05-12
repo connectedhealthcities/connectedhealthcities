@@ -4,7 +4,9 @@ weight: 10
 section: north-east-and-north-cumbria/communications
 level: "5.10"
 parent: north-east-and-north-cumbria
-
+resources:
+  -file: /assets/north-east-north-cumbria/Section 5.10.1_NENC CHC communications final report.pdf
+    title: NENC CHC Communications Final Report
 ---
 
 The communications workstream as part of the Connected Health Cities (CHC) programme in the North East and North Cumbria (NENC) sought to raise the profile of the CHC brand and its care pathway programmes. 

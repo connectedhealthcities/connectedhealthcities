@@ -4,7 +4,9 @@ weight: 1
 section: north-east-and-north-cumbria/trusted-research-environment-datashield/tre-archie-final-report
 level: 5.2.1
 parent: north-east-and-north-cumbria/trusted-research-environment-datashield
-
+resources: 
+    - path: /assets/north-east-north-cumbria/Section 5.2.1_TRE_ARCHIE Final report.pdf
+      title: TRE /ARCHIE Final report
 ---
 
 **Overarching technology principles**

@@ -4,7 +4,9 @@ weight: 1
 section: north-east-and-north-cumbria/professional-engagement/professional-engagement-report
 level: 5.8.1
 parent: north-east-and-north-cumbria/professional-engagement
-
+resources:
+  - file: /assets/north-east-north-cumbria/Section 5.8.1_Professional Engagement Report Final.pdf
+    title: Professional Engagement Report
 ---
 
 Connected Health Cities (CHC) was a project that explored the idea of a Learning Health System (LHS) and the role of connecting local health data and technology to improve care, planning and research for people in Northern England. Better use of data and informatics technology has been described a key enabler to supporting citizens’ health and wellbeing (Wachter 2016), and supporting the transformation of services delivering care. 

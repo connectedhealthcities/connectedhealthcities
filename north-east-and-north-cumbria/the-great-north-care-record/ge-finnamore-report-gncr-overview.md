@@ -4,7 +4,9 @@ weight: 1
 section: north-east-and-north-cumbria/the-great-north-care-record/ge-finnamore-report-gncr-overview
 level: 5.3.1
 parent: north-east-and-north-cumbria/the-great-north-care-record
-
+resources: 
+    - path: /assets/north-east-north-cumbria/Section 5.3.1_GE-Finnamore_Report_GNCR-overview.pdf
+      title: GE Finnamore report GNCR Overview
 ---
 
 This summarises the work undertaken by GE Healthcare Finnamore (GEHCF), acting as a vendor neutral independent advisor, in conjunction with the North East and North Cumbria Connected Health Cities (NENC CHC) project team, and its wide range of stakeholders, to develop a preferred architecture and set of requirements for a Shared Record and Analytics Platform known as the Great North Care Record (GNCR).  

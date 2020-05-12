@@ -4,7 +4,9 @@ weight: 9
 section: north-east-and-north-cumbria/public-engagement-and-ethics/gncr-data-ethics-framework-for-responsible-and-respectful-data-use-for-research
 level: 5.9.9
 parent: north-east-and-north-cumbria/public-engagement-and-ethics
-
+resources: 
+    - path: /assets/north-east-north-cumbria/Section 5.9.8_GNCR Ethics data framework.pdf
+      title: GNCR Data Ethics Framework for Responsible and Respectful Data Use for Research
 ---
 
 Understanding public views about data sharing has been central in shaping the GNCR Ethics Framework. 

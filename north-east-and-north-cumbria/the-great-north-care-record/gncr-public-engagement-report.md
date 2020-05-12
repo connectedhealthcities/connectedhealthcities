@@ -4,7 +4,9 @@ weight: 2
 section: north-east-and-north-cumbria/the-great-north-care-record/gncr-public-engagement-report
 level: 5.3.2
 parent: north-east-and-north-cumbria/the-great-north-care-record
-
+resources: 
+    - path: assets/north-east-north-cumbria/Section 5.3.2_GNCR public engagement report FINAL.pdf
+      title: GNCR Public Engagement Report
 ---
 
 **Engaging citizens**
