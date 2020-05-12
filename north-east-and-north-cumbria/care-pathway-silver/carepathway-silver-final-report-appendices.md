@@ -5,7 +5,7 @@ section: north-east-and-north-cumbria/care-pathway-silver/carepathway-silver-fin
 level: 5.5.2
 parent: north-east-and-north-cumbria/care-pathway-silver
 resources:
-  -path: /assets/north-east-north-cumbria/Section 5.5.2_Carepathway SILVER Final report_Appendices.pdf
+  - path: /assets/north-east-north-cumbria/Section 5.5.2_Carepathway SILVER Final report_Appendices.pdf
     title: Carepathway  SILVER  Final report Appendices
 ---
 

@@ -5,7 +5,7 @@ section: north-east-and-north-cumbria/professional-engagement/gncr-networking-ev
 level: 5.8.2
 parent: north-east-and-north-cumbria/professional-engagement
 resources:
-  -file: /assets/north-east-north-cumbria/Section 5.8.2_GNCR_Network-event.pdf
+  - file: /assets/north-east-north-cumbria/Section 5.8.2_GNCR_Network-event.pdf
     title: GNCR  Networking event
 ---
 

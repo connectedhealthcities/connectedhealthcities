@@ -5,7 +5,7 @@ section: north-east-and-north-cumbria/care-pathway-silver/publication-human-data
 level: 5.5.3
 parent: north-east-and-north-cumbria/care-pathway-silver
 resources:
-  -url: https://dl.acm.org/doi/10.1145/3290607.3312998
+  - url: https://dl.acm.org/doi/10.1145/3290607.3312998
     title: Human-data interaction (Bowyer et al 2019)
 ---
 
