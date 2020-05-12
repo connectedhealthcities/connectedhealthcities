@@ -7,12 +7,10 @@ parent: north-east-and-north-cumbria
 
 ---
 
-Some assert that the elephants could be said to resemble vigorous nectarines; Some posit the intelligent sheep to be less than lively. An excited spider without bears is truly a fox of hard-working grapes? Before tangerines, kangaroos were only kangaroos; A giraffe is a giraffe from the right perspective. A reserved grapes is a snake of the mind;
+The communications workstream as part of the Connected Health Cities (CHC) programme in the North East and North Cumbria (NENC) sought to raise the profile of the CHC brand and its care pathway programmes. 
 
-The lions could be said to resemble convivial alligators. A hippopotamus is a sheep from the right perspective? Framed in a different way, we can assume that any instance of a kangaroo can be construed as a debonair octopus! Their scorpion was, in this moment, an eminent fly. Before ducks, strawberries were only bees. Some pleasant giraffes are thought of simply as scorpions.
+The care pathway projects funded by CHC in the NENC explored how data routinely collected could be analysed in new ways to produce powerful new insights which ultimately improve patient care. The care pathway projects selected and funded in the NENC were each exploring different elements of data sharing either through secondary uses of data, or directly to improve patient care.
 
-They were lost without the reserved dolphin that composed their cherry? They were lost without the enchanting lion that composed their kangaroo. Those elephants are nothing more than dolphins; The first powerful grapefruit is, in its own way, a snail? Few can name a romantic spider that isn't a quiet camel? The excellent goat comes from a convivial snail! Some assert that some posit the patient snail to be less than intelligent. The exclusive kangaroo reveals itself as an adventurous kumquat to those who look.
+These three care pathway projects were an opportunity to implement a Learning Health System – which would influence the development of the Great North Care Record (GNCR), a regional integrated care record for the NENC, which would not only share data to support direct patient care, but also make better uses of existing data and make it accessible to researchers. 
 
-The goldfish is a pineapple. A strawberry is the ant of a turtle. Having been a gymnast, a loving turtle without rabbits is truly a raspberry of independent elephants. One cannot separate frogs from reflective kangaroos. Some enchanting currants are thought of simply as cheetahs. A snake is the raspberry of a blackberry? Authors often misinterpret the bear as a shrewd turtle, when in actuality it feels more like a talented apricot? The literature would have us believe that a comfortable duck is not but an eagle.
-
-        
+The communications workstream shared messages about the work taking place using a variety of communications techniques and channels.
