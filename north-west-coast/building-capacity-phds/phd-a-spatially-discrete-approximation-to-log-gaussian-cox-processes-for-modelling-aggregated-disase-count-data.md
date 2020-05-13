@@ -6,7 +6,7 @@ section: north-west-coast/building-capacity-phds/phd-a-spatially-discrete-approx
 level: 4.8.2
 parent: north-west-coast/building-capacity-phds
 resources:
-  -path: assets/north-west-coast/Section 4.8.2_ Spatially discrete approximation to log-Guassian Cox processes for modelling aggregated disease count data.pdf
+  - path: assets/north-west-coast/Section 4.8.2_ Spatially discrete approximation to log-Guassian Cox processes for modelling aggregated disease count data.pdf
     title: A Spatially discrete approximation to log-Gaussian Cox processes for modelling aggregated disease count data
 ---
 

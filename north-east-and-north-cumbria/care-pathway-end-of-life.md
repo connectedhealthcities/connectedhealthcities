@@ -5,7 +5,7 @@ section: north-east-and-north-cumbria/care-pathway-end-of-life
 level: "5.6"
 parent: north-east-and-north-cumbria
 resources:
-  -path: /assets/north-east-north-cumbria/Section 5.6.1_Carepthway_End of Life_Shared Palliative Care Summary Report.pdf
+  - path: /assets/north-east-north-cumbria/Section 5.6.1_Carepthway_End of Life_Shared Palliative Care Summary Report.pdf
     title: End of Life Shared Palliative Care Summary Report
 ---
 

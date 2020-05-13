@@ -5,7 +5,7 @@ section: north-east-and-north-cumbria/care-pathway-durham-planned-and-unplanned-
 level: "5.4"
 parent: north-east-and-north-cumbria
 resources:
-  -path: /assets/north-east-north-cumbria/Section 5.4.1_Carepathway Durham Planned and Unplanned Care Final Report.pdf
+  - path: /assets/north-east-north-cumbria/Section 5.4.1_Carepathway Durham Planned and Unplanned Care Final Report.pdf
     title: Care Pathway Durham planned and unplanned care
 ---
 
