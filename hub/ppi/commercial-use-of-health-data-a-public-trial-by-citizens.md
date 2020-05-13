@@ -4,7 +4,9 @@ weight: 3
 section: hub/ppi/commercial-use-of-health-data-a-public-trial-by-citizens
 level: 2.5.3
 parent: hub/ppi
-
+resources: 
+    - url: https://onlinelibrary.wiley.com/doi/full/10.1002/lrh2.10200
+      title: Commercial use of health data—A public “trial” by citizens'
 ---
 
 **Introduction**
