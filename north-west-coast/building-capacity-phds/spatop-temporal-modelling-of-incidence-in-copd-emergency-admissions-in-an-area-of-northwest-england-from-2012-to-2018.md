@@ -6,7 +6,7 @@ section: north-west-coast/building-capacity-phds/spatop-temporal-modelling-of-in
 level: 4.8.4
 parent: north-west-coast/building-capacity-phds
 resources:
-  - file: /assets/north-west-coast/Section 4.8.4_spatio temporal modelling of incidence in COPD emergency admissions.pdf
+  - path: /assets/north-west-coast/Section 4.8.4_spatio temporal modelling of incidence in COPD emergency admissions.pdf
     title: Spatio-temporal modelling of incidence in COPD emergency admissions in an area of Northwest England from 2012 to 2018
 ---
 

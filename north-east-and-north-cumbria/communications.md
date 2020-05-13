@@ -5,7 +5,7 @@ section: north-east-and-north-cumbria/communications
 level: "5.10"
 parent: north-east-and-north-cumbria
 resources:
-  - file: /assets/north-east-north-cumbria/Section 5.10.1_NENC CHC communications final report.pdf
+  - path: /assets/north-east-north-cumbria/Section 5.10.1_NENC CHC communications final report.pdf
     title: NENC CHC Communications Final Report
 ---
 

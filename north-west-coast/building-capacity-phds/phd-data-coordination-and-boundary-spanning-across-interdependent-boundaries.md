@@ -5,7 +5,7 @@ section: north-west-coast/building-capacity-phds/phd-data-coordination-and-bound
 level: 4.8.6
 parent: north-west-coast/building-capacity-phds
 resources:
-  - file: /assets/north-west-coast/Section 4.8.6_Data coordination and boundary spanning across interdependent boundaries_Neuman .pdf
+  - path: /assets/north-west-coast/Section 4.8.6_Data coordination and boundary spanning across interdependent boundaries_Neuman .pdf
     title: Data coordination and boundary spanning across interdependent boundaries
 ---
 Is health data the new oil?  

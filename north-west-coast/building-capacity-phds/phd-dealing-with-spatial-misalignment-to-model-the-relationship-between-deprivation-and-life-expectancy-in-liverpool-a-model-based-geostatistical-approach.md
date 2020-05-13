@@ -7,7 +7,7 @@ section: north-west-coast/building-capacity-phds/phd-dealing-with-spatial-misali
 level: 4.8.3
 parent: north-west-coast/building-capacity-phds
 resources:
-  - file: /assets/north-west-coast/Section 4.8.3_Dealing with spatial misalignment to model the relationship between deprivation and life expectancy.pdf
+  - path: /assets/north-west-coast/Section 4.8.3_Dealing with spatial misalignment to model the relationship between deprivation and life expectancy.pdf
     title: Dealing with spatial misalignment to model the relationship between deprivation and life expectancy in Liverpool
 ---
 

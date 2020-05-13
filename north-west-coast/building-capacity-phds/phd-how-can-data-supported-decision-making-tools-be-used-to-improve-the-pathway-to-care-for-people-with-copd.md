@@ -6,7 +6,7 @@ section: north-west-coast/building-capacity-phds/phd-how-can-data-supported-deci
 level: 4.8.1
 parent: north-west-coast/building-capacity-phds
 resources:
-  - file: /assets/north-west-coast/Section 4.8.1_How can data supported decision making tools be used to improve the pathway to care for people with COPD.pdf
+  - path: /assets/north-west-coast/Section 4.8.1_How can data supported decision making tools be used to improve the pathway to care for people with COPD.pdf
     title: How can data supported decision making tools be used to improve the pathway to care for people with COPD
 ---
 

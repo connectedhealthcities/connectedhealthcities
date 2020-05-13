@@ -5,7 +5,7 @@ section: north-east-and-north-cumbria/professional-engagement/professional-engag
 level: 5.8.1
 parent: north-east-and-north-cumbria/professional-engagement
 resources:
-  - file: /assets/north-east-north-cumbria/Section 5.8.1_Professional Engagement Report Final.pdf
+  - path: /assets/north-east-north-cumbria/Section 5.8.1_Professional Engagement Report Final.pdf
     title: Professional Engagement Report
 ---
 
