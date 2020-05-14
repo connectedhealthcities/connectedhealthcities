@@ -17,8 +17,10 @@ Its exacerbation is a major contributor to the number of emergency admission and
 COPD is the second most common cause (after a heart attack) of admission to a medical ward in the UK - ie. it’s a huge cost burden and there is a belief that many cases could be prevented, hence the interest in predictions. 
 
 In this study, we pursue two objectives:  
--1) to assess the relative contribution of socio-economic and environmental variables for forecasting COPD emergency admissions 
--2) to develop a reliable early warning system that triggers an alarm whenever COPD emergency admissions signal the likely exceedance of predefined incidence thresholds 
+
+1. To assess the relative contribution of socio-economic and environmental variables for forecasting COPD emergency admissions 
+
+2. To develop a reliable early warning system that triggers an alarm whenever COPD emergency admissions signal the likely exceedance of predefined incidence thresholds 
 
 We developed a predictive model using a class of generalised linear mixed model. We selected the best predictors using the root mean square error (RMSE). We developed an early warning system based on exceedance probabilities. 
 
