@@ -5,7 +5,7 @@ intro: | #this means everything indented below is included
 section: greater-manchester
 layout: section-home
 ---
-GM CHC delivered projects in improving the stroke care pathway and in understanding anti-microbial resistance. It also developed two pathfinder projects in woundcare and opioid prescribing.
+GM CHC delivered projects in improving the stroke care pathway and in understanding anti-microbial resistance. It also developed three pathfinder projects in woundcare, automation of clinical coding and opioid prescribing.
 
 Education and training and increasing capabilities and capacity in big data and applications in health and care were focus areas for GM CHC. Four applied doctoral research projects were initiated in 2017/18 supporting the clinical care pathways as well as the infrastructure required to increase access to health care data.
 
