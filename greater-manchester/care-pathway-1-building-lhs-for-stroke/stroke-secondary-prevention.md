@@ -12,7 +12,7 @@ resources:
 
 **Introduction**
 
-There	is a high risk of recurrent stroke	for all patients who	suffer	a stroke or transient ischemic attack(TIA) in the weeks following the	initial event, with most recurrent	strokes occurring within 90	days.	In order to investigate the	prevalence, frequency,and methods to reduce the occurrence of secondary/recurrent stroke in Manchester, the Greater Manchester Connected Health City (GM CHC) Secondary	Prevention Workstream was commissioned.	
+There	is a high risk of recurrent stroke	for all patients who	suffer	a stroke or transient ischemic attack (TIA) in the weeks following the	initial event, with most recurrent	strokes occurring within 90	days.	In order to investigate the	prevalence, frequency,and methods to reduce the occurrence of secondary/recurrent stroke in Manchester, the Greater Manchester Connected Health City (GM CHC) Secondary	Prevention Workstream was commissioned.	
 
 **Methods**	
 
