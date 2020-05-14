@@ -11,7 +11,7 @@ resources:
       title: Using NETIMIS to investigate alcohol-related admissions and model variations in patient demographics
 ---
 
-##Overview##
+**Overview**
 
 The NHS is facing increasing demand to provide a high-quality service for modern health problems with its limited resources to support growth which has been described as “the biggest challenge in its existence” (MyHealthNHS 2018). To tackle these challenges, the government has funded a £20 million programme across the North of England called CHC (Connected Health Cities). CHC aim to better understand and apply healthcare data to improve the effectiveness and efficiency of the NHS. 
 
