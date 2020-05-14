@@ -19,6 +19,9 @@ The review team wanted to understand how information and intelligence were curre
 The Survey was developed as a consequence of these observations and was focused on understanding the following: 
  
 - The nature of operational intelligence delivery and dissemination within health and care organisations 
+
 - Common challenges faced by information teams in disseminating intelligence across their organisation  
+
 - Successes that have been driven by effective delivery of intelligence within, and across, organisations 
+
 - How best practice in any one area might be shared and adopted in another area
