@@ -4,7 +4,9 @@ weight: 2
 section: greater-manchester/care-pathway-1-building-lhs-for-stroke/abc-ich-care-bundle
 level: 3.3.2
 parent: greater-manchester/care-pathway-1-building-lhs-for-stroke
-
+resources: 
+    - path: /assets/greater-manchester/Section 3.3.2_ Stroke ABC-ICH care bundle Final Report.pdf
+      title: ABC-ICH care bundle
 ---
 
 **Introduction** 

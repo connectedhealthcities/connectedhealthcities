@@ -4,7 +4,9 @@ weight: 1
 section: greater-manchester/care-pathway-1-building-lhs-for-stroke/improving-regcognition-of-stoke-by-pre-hospital-clinicians-mimics
 level: 3.3.1
 parent: greater-manchester/care-pathway-1-building-lhs-for-stroke
-
+resources: 
+    - path: /assets/greater-manchester/Section 3.3.1_Improving Regcognition of Stoke by Pre-Hospital Clinicians (Mimics).pdf
+      title: Improving Regcognition of Stoke by Pre-Hospital Clinicians (Mimics)
 ---
 **Introduction**	
 Acute stroke services are currently centralised in Hyper Acute Stroke Units (HASUs) in Greater Manchester, meaning that when a patient suffers a suspected stroke, ambulance teams	should transport the patient to	the nearest HASU, and directly to the nearest hospital in all other cases.  Despite this, a recent audit by the GM Stroke Operational Delivery Network (ODN) identified that around 48% of patients suspected strokes via the FAST test and taken to HASUs did not actually result in a stroke diagnosis.  These false positive cases are referred to as stroke “mimics” whilst a false negative case was an incident in which a stroke was not recognised using the FAST test.  The focus of this workstream was to improve the accurate recognition of stroke cases, reducing the number of stroke mimics and missed strokes.

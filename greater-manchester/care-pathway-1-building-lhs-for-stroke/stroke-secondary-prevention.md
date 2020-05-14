@@ -5,7 +5,9 @@ section: greater-manchester/care-pathway-1-building-lhs-for-stroke/stroke-second
 level: 3.3.5
 parent: greater-manchester/care-pathway-1-building-lhs-for-stroke
 path: Secondary Stroke Prevention Report Final Report. PDF
-
+resources: 
+    - path: /assets/greater-manchester/Section 3.3.5_Stroke Secondary Prevention Report Final Report.pdf
+      title: Stroke Secondary Prevention
 ---
 
 **Introduction**
