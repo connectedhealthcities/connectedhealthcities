@@ -10,11 +10,15 @@ resources:
 ---
 
 **Engaging citizens**
+
 Engaging citizens in developing the Great North Care Record is crucial to making sure it is acceptable and meets the needs of all citizens.  
 
 Why is citizen engagement important to the Great North Care Record? 
+
 - Citizen engagement in the North East and North Cumbria is a cornerstone of the success of the Great North Care Record. 
+
 - The Great North Care Record will continue to be co-produced and co-designed with citizens and aim to meet the obligations that all systems and practices are transparent, fair and commensurate with citizens’ expectations and has the ongoing support of the majority of the population. 
+
 - Citizen co-production of the Great North Care Record will allow citizen engagement with and public support of efforts to share health and social care data for care delivery, service evaluation and planning, and research. 
 
 Connected Health Cities worked with Teesside University and local Healthwatch groups in the North East and North Cumbria to bring together citizens across the region. The aim of engagement sessions was to identify citizens’ hopes, concerns and expectations about the Great North Care Record. 
