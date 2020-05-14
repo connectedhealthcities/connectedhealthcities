@@ -16,6 +16,7 @@ COPD is slowly progressive. Most admissions are in people who are breathless on 
 CHC set out to identify COPD patient cohorts, characterise them, examine their prior and later history, and also where admissions were coming from. We used all recorded diagnostic coding related to COPD, not just primary diagnosic codes. We worked extensively with clinicians to determine all codes. 
 
 The project, built on a previous algorithm making use of all the diagnosis codes in the Secondary Uses Service (SUS) dataset. 45% more admissions were identified compared with other healthcare applications e.g. NHS Digital or RightCare, who use primary coding only.  
+
 The additional patients found in our extract using all diagnostic codes tend to be older, sicker, with more readmissions, and come from deprived localities.  
 
 Reports created for each trust were based on their hospital catchments ie. the functional NHS unit and shared with the hospital trust clinical and managerial teams. 
@@ -34,9 +35,15 @@ Overall admission rates continue to rise year-on-year (in line with national tre
 
 We also showed that a new more efficient and cost effective inhaler recommended by The National Institute for Health and Care Excellence (NICE) and by all CCGs to the frontline had a very slow uptake; with 15% of practices not supplying a single one three years after the guidance was issued. Our data demonstrates that working in areas of the most need in the first insance may lead to greater opportunities to improve services and patient outcomes.
 
-OPPORTUNITIES  
+**Opportunities** 
+
 1. Work with the integrated care system and invite the hospital (and its outreach service), primary care and community services to come together to address the ‘hotspot’ in particular.   Invite them to create a focused local approach to their hotspot. This work has already taken place in Cheshire and Merseyside, where hot-spot information has been shared and an approach to support GP practices, however greater attention could be givento hot-spots in the future. 
 
-2. Implement the algorithm in the local hospital to: a. Make fully up-to-date reports of changing admission rates available – with information on which types of patients may be being affected. b. Create prompts for ED staff and others to enable patients to be on the best local pathway at the earliest point in their exacerbation – and automate alerts to those who need to know. c. Create evaluations of the local service provision with a view to efficiency and effectiveness of teams – intending to inform rollout to areas beyond the hotspot. 
+2. Implement the algorithm in the local hospital to: 
+   - Make fully up-to-date reports of changing admission rates available – with information on which types of patients may be being          affected. 
+   
+   - Create prompts for ED staff and others to enable patients to be on the best local pathway at the earliest point in their                exacerbation – and automate alerts to those who need to know. 
+   
+   - Create evaluations of the local service provision with a view to efficiency and effectiveness of teams – intending to inform            rollout to areas beyond the hotspot. 
 
         
