@@ -19,7 +19,7 @@ c) The practice level app was developed to build a hub level model, combining da
 
 d) This app is also being used by several practices to inform the next planning round. The team is still receiving requests to develop the app to help practices measure performance against key targets. 
 
-e) An unplanned care modelling app was developed to predict attendance at Accident and Emergency (A & E) departments.  The A&E app was taken up by a Trust outside of the project. 
+e) An unplanned care modelling app was developed to predict attendance at Accident and Emergency (A&E) departments.  The A&E app was taken up by a Trust outside of the project. 
 
 f) The team procured an appropriate infrastructure to work securely with NHS data outside of the University’s own systems.  The team worked with the provider to develop this solution and was able to pass the learning from this process on to the team designing the regional Trusted Research Environment.
 
@@ -35,7 +35,7 @@ c) Future projects should ensure that there is funding allocated for NHS Trusts 
  
 d) CHC showcasing events were very useful in sharing the work that was going on between project teams. Future projects within a programme may benefit from coming together earlier in the programme to raise awareness of crossover and shared problems – which would improve collaborative working, problem solving and lead to efficiencies.  It could also potentially generate further collaborations and grant applications.
 
-e) Potential future work to develop a regional picture would need an NHS/external organisation to bring together support and champion the benefits.  Greta North Care Record (GNCR) developments could facilitate work of this type for future projects, providing a platform and establishing a trusted process. 
+e) Potential future work to develop a regional picture would need an NHS/external organisation to bring together support and champion the benefits.  Great North Care Record (GNCR) developments could facilitate work of this type for future projects, providing a platform and establishing a trusted process. 
 
 f) Working with a consultant who has experience in the NHS organisations, and has the appropriate contacts and manages the links between the project team and collaborative partners from an external point of view has been key for this project.  Future projects may well wish to consider replicating this model. 
 
