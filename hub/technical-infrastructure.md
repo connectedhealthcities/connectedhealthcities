@@ -7,19 +7,20 @@ parent: hub
 
 ---
 
-Building and applying a reference data architecture, CHC launched four Data Arks and six operational trustworthy research environments in 24 months across the North of England. 
+Building and applying a reference data architecture, CHC launched four Data Arks and six operational trustworthy research environments in twenty four months across the North of England. 
 
-A Data Ark is a structured system for key stakeholders owners, data managers, public health analysts, care service analysts, statisticians, informaticians, social scientists, health economists, health service researchers and communications experts. Combining the people with the CHC methods, technologies, data and analysis, a Data Ark provides the underlying infrastructure on which Trustworthy Research Environments can be built.
+A Data Ark is a structured system for key stakeholders owners, data managers, public health analysts, care service analysts, statisticians, informaticians, social scientists, health economists, health service researchers and communications experts. Combining the people with the CHC methods, technologies, data and analysis, a Data Ark provides the underlying infrastructure on which Trustworthy Research Environments (TRE) can be built.
 
-The concept of a Trustworthy Research Environment (TRE) is central to the work of Connected Health Cities. A TRE is a secure platform to analyse data which meets the needs of the data owners, citizens, and researchers. A TRE must be also be able to meet common data standards, information governance and legal requirements for the storage and use of health data. The development of the individual TREs within the CHC regions enabled local adaptation to governance, data, and research requirements while meeting these core design principles.
+The concept of a Trustworthy Research Environment is central to the work of Connected Health Cities. A TRE is a secure platform to analyse data which meets the needs of the data owners, citizens, and researchers. A TRE must be also be able to meet common data standards, information governance and legal requirements for the storage and use of health data. The development of the individual TREs within the CHC regions enabled local adaptation to governance, data, and research requirements while meeting these core design principles.
 
 CHC launched six operational TREs across the North of England, including 100% coverage across the NENC region, within twenty four months.
-- Born in Bradford TRE
-- Sheffield 111 TRE
-- Leeds Institute for Data Analytics (LIDA) TRE
-- University of Manchester TRE
-- AIMES/NWC TRE
-- AIMES/NENC TRE 
+
+1. Born in Bradford TRE
+2. Sheffield 111 TRE
+3. Leeds Institute for Data Analytics (LIDA) TRE
+4. University of Manchester TRE
+5. AIMES/NWC TRE
+6. AIMES/NENC TRE 
 
 **Establishing the TREs**
 A Technical Working Group was established February 2017. This Group worked with the four regions to develop a common design for the essential features, or reference architecture, as a baseline for future implementation of local TREs.
