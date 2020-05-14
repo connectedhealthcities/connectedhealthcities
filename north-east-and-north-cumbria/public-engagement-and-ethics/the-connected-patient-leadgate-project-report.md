@@ -21,10 +21,13 @@ Added to this the project also asked the patients to indicate their preferred mo
 
 The aim and objectives of the Connect Patient Project were: 
 
-**Aim:**  To evaluate a service improvement project for acceptability and feasibility from the viewpoint of 
+**Aim:**  
+
+To evaluate a service improvement project for acceptability and feasibility from the viewpoint of 
 patients and practice staff.  
 
 **Objectives:**  
+
 1. To explore the influences on patient choices and identify if there are any correlations 
 between patient preferences on data sharing, preferred mode of contact, age range, gender 
 and presence or not of a long-term condition. 
@@ -54,12 +57,19 @@ The SIP was acceptable and feasible for patients and the practice staff. However
 Recommendations from the project are:  
 
 - In any further iteration, strategies to reduce non-response should be engaged with.  
-- Splitting the component parts of the project into individual studies may aid understanding and engagement by the eligible population. 
+
+- Splitting the component parts of the project into individual studies may aid understanding and engagement by the eligible population.
+
 - Further work is required to explore the scope and acceptability of SMS and email contact.  
+
 - Additional work is required to explore the granularity of permissions and the rationale for choice.  
-- Overt commercialisation of the research process may hinder recruitment.  
+
+- Overt commercialisation of the research process may hinder recruitment.
+
 - Studies in primary care should be targeted at health promotion and chronic disease.  
-- Further work is required at a regional and national level to better articulate the role of commercial companies in NHS research. 
+
+- Further work is required at a regional and national level to better articulate the role of commercial companies in NHS research.
+
 - Further explore the value and test the outputs from this study by using the practice to approach patients about relevant research. This would facilitate an assessment of the willingness to engage with researchers, when compared with routine response rates from general mail-outs in primary care. 
   
         
