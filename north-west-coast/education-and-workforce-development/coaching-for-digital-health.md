@@ -17,7 +17,7 @@ This seven month coached programme for NHS staff and community stakeholders was 
  
 Analysis of its resulting data and stakeholder narratives has: 
  
--1) Informed understanding of digital health transformation within the North West coast health and care system. 
+1. Informed understanding of digital health transformation within the North West Coast health and care system. 
  
--2) Provided insight into challenges and opportunities for leveraging the enabling power of workforce to implement and spread digital innovation. 
+2. Provided insight into challenges and opportunities for leveraging the enabling power of workforce to implement and spread digital innovation. 
         
