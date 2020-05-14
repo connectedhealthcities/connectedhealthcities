@@ -11,7 +11,7 @@ resources:
 
 **Overarching technology principles**
 
-Work prior to the CHC project in the North East, at Newcastle University Business School, had indicated that, in a multivendor community, hub based front-line record sharing using commonly available document structures, such as pdf, HL7 CDA, and OpenEHR, would offer a useful start. Indexing using IHE XDS profiles was already successfully undertaken in the LPRES project in North West Coast, using open-source based middleware supported by Tiani-Spirit. In addition, an early piece of work under CHC-NENC was carried out by GE Healthcare Finnamore to collect stakeholder input as to what a shared record and analytic platform for the region might look like (bit.ly/2SiGjVZ). With these issues in mind, the intention was to create an open-standards based platform or hub for federated data analysis and information sharing across the NENC region. 
+Work prior to the CHC project in the North East, at Newcastle University Business School, had indicated that, in a multivendor community, hub based front-line record sharing using commonly available document structures, such as pdf, HL7 CDA, and OpenEHR, would offer a useful start. Indexing using IHE XDS profiles was already successfully undertaken in the LPRES project in North West Coast, using open-source based middleware supported by Tiani-Spirit. In addition, an early piece of work under CHC-NENC was carried out by GE Healthcare Finnamore to collect stakeholder input as to what a shared record and analytic platform for the region might look like. With these issues in mind, the intention was to create an open-standards based platform or hub for federated data analysis and information sharing across the NENC region. 
  
 **Medical Information Gateway (MIG)** 
 
