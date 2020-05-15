@@ -32,4 +32,4 @@ The ambition of the Great North Care Record is to improve information sharing be
 
 **Controlling how your information is shared** 
 
-Not everyone is comfortable with their information being shared. Currently, the public can opt out of their information being shared within the NHS.  Identifiable information can only be shared with researchers with the patient’s permission. More information about the Great North Care Record is available [here] (https:www.greatnorthcarerecord.org.uk).  
+Not everyone is comfortable with their information being shared. Currently, the public can opt out of their information being shared within the NHS.  Identifiable information can only be shared with researchers with the patient’s permission. More information about the Great North Care Record is available [here](https://www.greatnorthcarerecord.org.uk).  
