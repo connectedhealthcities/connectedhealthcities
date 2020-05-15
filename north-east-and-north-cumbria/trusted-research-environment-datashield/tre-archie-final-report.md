@@ -17,7 +17,7 @@ Work prior to the CHC project in the North East, at Newcastle University Busines
 
 The first stage of the hub development was the decision to make the Medical Information Gateway (MIG) accessible to front line care at local hospitals. This allowed clinicians, with consent from patients, to look at their GP record in order to help their immediate care needs. This one-way realtime pull of individual’s GP data is in constant use across the region. This was seen as the first step in building a truly connected NENC, and fed into the design of ARCHIE.  
  
-**The ARCHIE subproject** 
+**The ARCHIE sub-project** 
 
 With the early success of the MIG, and based on background research (above), a high-level picture of what the infrastructure needed to look like was then developed. It consisted of two major components joined together: A Trusted Research Environment (TRE) and a Health Information Exchange (HIE). 
 
