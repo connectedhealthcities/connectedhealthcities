@@ -1,5 +1,5 @@
 ---
-title: Designing a Solution to Manage Electronic Consent for Children (MIE paper)
+title: Designing a Solution to Manage Electronic Consent for Children 
 weight: 2
 section: hub/technical-infrastructure/designing-a-solution-to-manage-electronic-consent-for-children-mie-paper
 level: 2.2.2
