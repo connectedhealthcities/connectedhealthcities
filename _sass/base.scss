@@ -1,6 +1,6 @@
 @import './vendor/sanitize.scss';
 
-$one-rem: 12;
+$one-rem: 16;
 @function to_rem($pixel_size) {
     @return 0rem + $pixel_size / $one-rem;
 }
