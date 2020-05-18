@@ -24,15 +24,15 @@ body {
     color: #3F2B4E;
     background-color: #fff;
 
-    ul {
-        margin: 0;
-        padding: 0;
-        list-style: none;
-    }
-
     a { 
         text-decoration: none;
     }
+}
+
+%inline-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
 $desktop-left-width: 588;
@@ -297,6 +297,7 @@ p {
 
     .section-menu {
 
+        @extend %inline-list;
         margin-top: to_rem(151);
 
         @include mobile-view() {
@@ -859,6 +860,7 @@ $intro-mobile-space-bottom: to_rem(26);
 
         .header-contacts  {
             line-height: percentage(40/22);
+            @extend %inline-list;
             > li {
                 margin-bottom: to_rem(20);
                 &:last-child {
@@ -884,6 +886,7 @@ $intro-mobile-space-bottom: to_rem(26);
         }
 
         .header-contact__methods {
+            @extend %inline-list;
             li {
                 display: inline-block;
                 &::after {
