@@ -7,4 +7,4 @@ parent: hub/ppi
 
 ---
 
-This publication is in draft and currently under review.  More information can be found using the link.
+This publication is in draft and currently under review.  More information can be found using this [link] (https://jmir.org/preprint/16348).
