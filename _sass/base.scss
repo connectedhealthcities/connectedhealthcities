@@ -1060,10 +1060,18 @@ $intro-mobile-space-bottom: to_rem(26);
 
     svg {
         margin-bottom: 38px;
+        margin-right: to_rem(27.9);
+        &:last-of-type {
+            margin-right: 0;
+        }
 
         @include mobile-view() {
             margin: to_rem(23) auto to_rem(26);
             display: block;
+
+            &:last-of-type {
+                margin-right: auto;
+            }
         }
     }
 

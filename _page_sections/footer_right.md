@@ -2,6 +2,7 @@
 ---
 
 {% include images/footer-logo.svg %}
+{% include images/nhsa-footer-logo.svg %}
 
 #### Contact
 
