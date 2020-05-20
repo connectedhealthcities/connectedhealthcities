@@ -1,5 +1,5 @@
 ---
-title: CarePathway Promoting Healthier Child Growth
+title: Promoting Healthier Child Growth Care pathway
 weight: 6
 section: connected-yorkshire/carepathway-promoting-healthier-child-growth
 level: "6.6"
