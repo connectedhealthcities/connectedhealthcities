@@ -1,5 +1,5 @@
 ---
-title: Carepathway Alcohol Related Liver Disease
+title: Alcohol Related Liver Disease Care pathway
 weight: 5
 section: north-west-coast/carepathway-alcohol-related-live-disease
 level: "4.5"
