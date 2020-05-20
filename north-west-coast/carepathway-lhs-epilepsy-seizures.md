@@ -1,5 +1,5 @@
 ---
-title: Carepathway LHS Epilepsy & Seizures
+title: Epilepsy & Seizures Care pathway
 weight: 3
 section: north-west-coast/carepathway-lhs-epilepsy-seizures
 level: "4.3"
