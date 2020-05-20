@@ -5,4 +5,4 @@
 
 #### Contact
 
-- Email: info (at) connectedhealthcities.org
+- Email: <a href="mailto:info@connectedhealthcities.org">info@connectedhealthcities.org</a>
