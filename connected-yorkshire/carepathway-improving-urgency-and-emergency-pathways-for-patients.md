@@ -1,5 +1,5 @@
 ---
-title: Carepathway Improving Urgency and Emergency pathways for patients
+title: Improving Urgency and Emergency Care pathways for patients
 weight: 4
 section: connected-yorkshire/carepathway-improving-urgency-and-emergency-pathways-for-patients
 level: "6.4"
