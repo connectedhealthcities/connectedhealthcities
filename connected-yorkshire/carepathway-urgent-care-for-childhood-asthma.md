@@ -1,5 +1,5 @@
 ---
-title: Carepathway Urgent Care for Childhood Asthma
+title: Urgent Care for Childhood Asthma Care pathway
 weight: 5
 section: connected-yorkshire/carepathway-urgent-care-for-childhood-asthma
 level: "6.5"
