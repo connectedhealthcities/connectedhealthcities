@@ -1,5 +1,5 @@
 ---
-title: "Care Pathway: SILVER"
+title: "SILVER Care pathway"
 weight: 5
 section: north-east-and-north-cumbria/care-pathway-silver
 level: "5.5"
