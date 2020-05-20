@@ -1,5 +1,5 @@
 ---
-title: "Care Pathway: End of Life"
+title: "End of Life Care pathway"
 weight: 6
 section: north-east-and-north-cumbria/care-pathway-end-of-life
 level: "5.6"
