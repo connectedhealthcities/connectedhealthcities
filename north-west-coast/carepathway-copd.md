@@ -1,5 +1,5 @@
 ---
-title: Carepathway COPD
+title: COPD Care pathway
 weight: 4
 section: north-west-coast/carepathway-copd
 level: "4.4"
