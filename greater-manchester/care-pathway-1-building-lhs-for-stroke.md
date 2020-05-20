@@ -1,5 +1,5 @@
 ---
-title: "Care Pathway 1: Building LHS for Stroke"
+title: "Building LHS for Stroke Care pathway"
 weight: 3
 section: greater-manchester/care-pathway-1-building-lhs-for-stroke
 level: "3.3"
