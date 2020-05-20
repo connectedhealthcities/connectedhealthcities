@@ -1,5 +1,5 @@
 ---
-title: Frailty
+title: Frailty Care pathway
 weight: 7
 section: connected-yorkshire/frailty
 level: "6.7"
