@@ -1,5 +1,5 @@
 ---
-title: Care Pathway Durham planned and unplanned care
+title: Durham planned and unplanned care pathway
 weight: 4
 section: north-east-and-north-cumbria/care-pathway-durham-planned-and-unplanned-care
 level: "5.4"
