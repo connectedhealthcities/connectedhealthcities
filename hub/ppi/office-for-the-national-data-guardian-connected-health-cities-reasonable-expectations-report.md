@@ -5,7 +5,7 @@ weight: 2
 section: hub/ppi/office-for-the-national-data-guardian-connected-health-cities-reasonable-expectations-report
 level: 2.5.2
 parent: hub/ppi
-resource: 
+resources: 
     - path: /assets/hub/Section 2.5.2_Office for the National Data Guardian & Connected Health Cities Reasonable Expectations Report.pdf
       title: Office for the National Data Guardian & Connected Health Cities Reasonable Expectations Report
 ---

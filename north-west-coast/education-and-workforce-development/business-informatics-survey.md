@@ -5,8 +5,8 @@ section: north-west-coast/education-and-workforce-development/business-informati
 level: 4.7.5
 parent: north-west-coast/education-and-workforce-development
 resources: 
-    - path: /assets/north-west-coast/Section 4.7.5_Buisness Informatics Workshop Barriers and Enablers Innovation.pdf
-      title: Business Informatics Workshop Barriers and Enablers Innovation
+    - path: /assets/north-west-coast/Section 4.9.1_Business Informatics Survey Final Report.pdf
+      title: Business Informatics Survey Final Report
 ---
 The Connected Health Cities (CHC) Information Dissemination survey was developed and circulated between February and April 2018 with a view to improving the CHC team’s understanding of how business intelligence reports, and general business intelligence outputs relating to health service activity, were typically disseminated within healthcare organisations across the NHS. 
  

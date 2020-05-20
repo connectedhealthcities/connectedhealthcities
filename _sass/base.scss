@@ -24,15 +24,15 @@ body {
     color: #3F2B4E;
     background-color: #fff;
 
-    ul {
-        margin: 0;
-        padding: 0;
-        list-style: none;
-    }
-
     a { 
         text-decoration: none;
     }
+}
+
+%inline-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
 $desktop-left-width: 588;
@@ -159,21 +159,27 @@ p {
     }
 
     .left-hand-side {
+        $main-content-font-size: 22;
+        $main-content-mobile-font-size: 12.1973;
+        $main-content-line-height: 159%;
+
+        font-size: to_rem($main-content-font-size);
+        line-height: $main-content-line-height;
+        @include mobile-view() {
+            font-size: to_rem($main-content-mobile-font-size);
+        }
+
         p {
             margin: 0 0 to_rem(15);
-            font-size: to_rem(22);
-            line-height: 159%;
-
-            @include mobile-view() {
-                font-size: to_rem(12.1973);
-            }
+            
+            
 
             .default &:first-child,
             .home &:first-of-type {
                 font-weight: 600;
                 font-size: to_rem(28);
                 line-height: 143%;
-
+                
                 @include mobile-view() {
                     font-size: to_rem(15.5238);
                 }
@@ -181,6 +187,18 @@ p {
 
             &:last-child {
                 margin-bottom: 0;
+            }
+        }
+
+        .default & li p, .default & li p:first-child {
+            font-size: to_rem($main-content-font-size);
+            line-height: $main-content-line-height;
+            font-weight: normal;
+
+            @include mobile-view() {
+                li & {
+                    font-size: to_rem($main-content-mobile-font-size);
+                }
             }
         }
     }
@@ -229,6 +247,7 @@ p {
 
 
     .resources {
+        @extend %inline-list;
         margin-bottom: to_rem(37);
         li {
             border: 3px solid #00a2ad;
@@ -297,6 +316,7 @@ p {
 
     .section-menu {
 
+        @extend %inline-list;
         margin-top: to_rem(151);
 
         @include mobile-view() {
@@ -327,6 +347,10 @@ p {
             }
         }
 
+        ul { 
+            @extend %inline-list;
+        }
+
         ul li {
 
             margin-bottom: to_rem(15);
@@ -343,6 +367,7 @@ p {
                 font-weight: 500;
                 font-size: to_rem(24);
                 line-height: percentage(30/24);
+                color: #3F2B4E;
 
                 &.active {
                     font-weight: bold;
@@ -859,6 +884,7 @@ $intro-mobile-space-bottom: to_rem(26);
 
         .header-contacts  {
             line-height: percentage(40/22);
+            @extend %inline-list;
             > li {
                 margin-bottom: to_rem(20);
                 &:last-child {
@@ -884,6 +910,7 @@ $intro-mobile-space-bottom: to_rem(26);
         }
 
         .header-contact__methods {
+            @extend %inline-list;
             li {
                 display: inline-block;
                 &::after {
@@ -1033,10 +1060,18 @@ $intro-mobile-space-bottom: to_rem(26);
 
     svg {
         margin-bottom: 38px;
+        margin-right: to_rem(27.9);
+        &:last-of-type {
+            margin-right: 0;
+        }
 
         @include mobile-view() {
             margin: to_rem(23) auto to_rem(26);
             display: block;
+
+            &:last-of-type {
+                margin-right: auto;
+            }
         }
     }
 

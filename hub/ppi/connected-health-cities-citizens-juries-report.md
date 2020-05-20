@@ -4,9 +4,9 @@ weight: 1
 section: hub/ppi/connected-health-cities-citizens-juries-report
 level: 2.5.1
 parent: hub/ppi
-resource: 
-    - path: /assets/hub/Section 2.5.1_Connected Health Cities Citizens’ Juries Report.pdf
-      title: Connected Health Cities Citizens’ Juries Report
+resources: 
+    - path: '/assets/hub/Section 2.5.1_Connected Health Cities Citizens’ Juries Report.pdf'
+      title: 'Connected Health Cities Citizens’ Juries Report'
 ---
 
 Connected Health Cities commissioned the citizens’ juries to find out what people thought about some of our planned uses of health data. We chose this method of public involvement as it gave the jury members the time and opportunity to ask questions and deliberate about the range of evidence presented  to  them.  
