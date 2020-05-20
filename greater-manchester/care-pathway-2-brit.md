@@ -1,5 +1,5 @@
 ---
-title: "Care Pathway 2: BRIT"
+title: "BRIT Care pathway"
 weight: 4
 section: greater-manchester/care-pathway-2-brit
 level: "3.4"
