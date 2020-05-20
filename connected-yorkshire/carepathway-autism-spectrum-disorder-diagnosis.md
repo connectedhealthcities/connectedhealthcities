@@ -1,5 +1,5 @@
 ---
-title: Carepathway Autism Spectrum Disorder Diagnosis
+title: Autism Spectrum Disorder Diagnosis Care pathway
 weight: 8
 section: connected-yorkshire/carepathway-autism-spectrum-disorder-diagnosis
 level: "6.8"
