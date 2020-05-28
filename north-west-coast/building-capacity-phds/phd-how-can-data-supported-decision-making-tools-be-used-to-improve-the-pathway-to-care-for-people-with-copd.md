@@ -1,13 +1,12 @@
 ---
-title: "PhD: How can data supported decision making tools be used to improve the
-  pathway to care for people with COPD"
+title: "PhD: The role of data supported decision-making technology in respiratory care"
 weight: 1
 section: north-west-coast/building-capacity-phds/phd-how-can-data-supported-decision-making-tools-be-used-to-improve-the-pathway-to-care-for-people-with-copd
 level: 4.8.1
 parent: north-west-coast/building-capacity-phds
 resources:
   - path: /assets/north-west-coast/Section 4.8.1_How can data supported decision making tools be used to improve the pathway to care for people with COPD.pdf
-    title: How can data supported decision making tools be used to improve the pathway to care for people with COPD
+    title: The role of data supported decision-making technology in respiratory care
 ---
 
 A collage of information is required for effective clinical decision-making around a patient’s care. This includes reviewing paper notes, digital documentation, and liaising with other clinicians involved in the patient’s care.  
@@ -22,4 +21,3 @@ To explore this in more detail, we have worked with healthcare professionals and
 COPD is a large challenge both on individual patients and healthcare services in the North of England, which makes it an important point of focus for this research.  
 
 We present novel design considerations that can help future work in the area of designing DSDM technologies that aim to improve the care of patients with COPD.  
-        

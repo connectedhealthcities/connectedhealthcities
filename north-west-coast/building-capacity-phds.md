@@ -7,6 +7,6 @@ parent: north-west-coast
 
 ---
 
-The NWC CHC Team successfully supported postgraduate level applied research studies in data science and data driven improvement.  Four PhD students were hosted at Lancaster Universities Centre for Health Informatics, Computing, and Statistics under Academic Director Professor Jo Knight.  Two of these students had clinical placements with skills gained in data science and application to care pathway analytics.
+The NWC CHC Team successfully supported postgraduate level applied research studies in data science and data driven improvement. Four PhD students were hosted across the faculties at Lancaster University and brought together in a multidisciplinary team by Professor Jo Knight Co-Director of Lancaster’s Data Science Institute. Three students worked directly with clinicians and the other with our industry partner to ensure projects were relevant and impactful.
 
         

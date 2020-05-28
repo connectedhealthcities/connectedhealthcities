@@ -9,6 +9,7 @@ resources:
   - path: /assets/north-west-coast/Section 4.8.4_spatio temporal modelling of incidence in COPD emergency admissions.pdf
     title: Spatio-temporal modelling of incidence in COPD emergency admissions in an area of Northwest England from 2012 to 2018
 ---
+> This paper is a part of a single PhD "Geostatistical Methods for Modelling Spatially Aggregated Data"
 
 Chronic Obstructive Pulmonary Disease (COPD) is one of the leading causes of mortality worldwide with an estimated three million deaths in 2015, corresponding to 5% of all deaths globally.
 

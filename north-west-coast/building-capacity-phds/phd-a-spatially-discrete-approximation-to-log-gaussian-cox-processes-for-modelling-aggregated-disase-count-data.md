@@ -9,6 +9,7 @@ resources:
     - path: /assets/north-west-coast/Section 4.8.2_ Spatially discrete approximation to log-Guassian Cox processes for modelling aggregated disease count data.pdf
       title: A Spatially discrete approximation to log-Gaussian Cox processes for modelling aggregated disease count data
 ---
+> This paper is a part of a single PhD "Geostatistical Methods for Modelling Spatially Aggregated Data"
 
 In this project, we develop a computationally efficient discrete approximation to log-Gaussian Cox process (LGCP) models for the analysis of spatially aggregated disease count data.  
 
