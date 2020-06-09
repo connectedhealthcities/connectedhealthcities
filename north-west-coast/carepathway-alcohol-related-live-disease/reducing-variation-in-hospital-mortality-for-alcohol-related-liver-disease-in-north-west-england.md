@@ -6,9 +6,8 @@ level: 4.5.3
 parent: north-west-coast/carepathway-alcohol-related-live-disease
 resources: 
     - path: /assets/north-west-coast/Section 4.5.3_Reducing variation in hospital mortality for alcohol-related liver disease in North West England.pdf
-      title: Using NETIMIS to investigate alcohol-related admissions and model variations in patient demographics
+      title: Reducing variation in hospital mortality for alcohol-related liver disease in North West England
 ---
-## Reducing variation in hospital mortality for alcohol-related liver disease in North West England
 
 ### Summary
 
