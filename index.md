@@ -13,4 +13,6 @@ Connected Health Cities was a Government-funded programme that used information 
 
 The website also constitutes the CHC final report to its funders, the UK Department of Health and Social Care following the conclusion of the programme in March, 2020.
 
+The purpose in hosting this report on Github is that is becomes more than just a record of activity and acts as a hub for others to build a community of practice to share ideas and experiences in building and sustaining learning health systems.
+
 Much of the infrastructure and learning for CHC continues to be used and developed across the North of England with the [Northern Health Science Alliance](https://www.thenhsa.co.uk/).
