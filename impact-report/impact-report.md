@@ -5,7 +5,7 @@ section: impact/report
 level: "9.1"
 parent: impact
 resources: 
-    - url: https://www.chc-impact-report.co.uk/executive-summary
+    - url: https://www.chc-impact-report.co.uk/
       title: CHC Impact Report - Online version
 ---
-The Impact report for CHC can be viewed online. A final version of the report will be available shortly.
+The Impact report for CHC can be viewed online. A downloadable version is also available.
